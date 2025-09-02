@@ -10,7 +10,6 @@ Quick links
 - Weekly schedule: [schedule](schedule.md)
 - Weeks (rendered in site): [weeks]({{ site.baseurl }}/weeks/)
 - Pseudocode mapping: [pseudocode](pseudocode.md)
-- Quiz answers (repo): https://github.com/steven-ryan/ap-csp_25-26/tree/main/quiz-answers
 - Glossary: [glossary](glossary.md)
 
 Tip: Weekly plans and quizzes live in the repo under the Week folders.
