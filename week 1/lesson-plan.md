@@ -39,3 +39,22 @@ References
 TOOD:
 - []  Compare AP Daily to https://www.youtube.com/watch?v=cs58aO6XczY&list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT
 - [ ] extra support here worth it: https://www.youtube.com/watch?v=HHSokBrStpQ&list=PLoGgviqq48452kiJGcpqKhgNuPFDahbaS
+- chec the note folder Teachers notes and study plan
+
+# Teacher Lesson Plan — Week 1
+
+Focus
+- Foundations (Programming/CRD/AAP/DAT)
+
+In-class guidance
+- Model “small change → test → iterate”; cold‑call pseudocode checks (DISPLAY → print; REPEAT → loops).
+
+Quick checks
+- Parameter vs argument; return vs print; list traversal; input validation (as relevant).
+
+Assess
+- Mini‑quiz (6–8 min) — pseudocode→Python, trace, concept check; AP Classroom completion check.
+
+Links
+- Student plan: this-week.md
+- Quiz: quiz.md
