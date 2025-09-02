@@ -4,7 +4,7 @@ Start here (GitHub Pages)
 - Docs site: https://steven-ryan.github.io/ap-csp_25-26/
 - Student guide: docs/student-guide.md
 - Weekly schedule: docs/schedule.md
-- Quiz answers (public): quiz-answers/
+
 
 How to submit (quick version)
 1) Fork https://github.com/steven-ryan/ap-csp_25-26
