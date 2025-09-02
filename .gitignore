@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+.DS_Store
+.vscode/
+*.code-workspace
+node_modules/
+# Private/PII stash (keep join codes, contact info here)
+AP-Private/
+# Large or optional assets
+screenshots/
+student-submissions/**/assets/
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 3dbf1d0 (Add public quiz answers and weekly quiz updates)
