@@ -1,4 +1,10 @@
+---
+title: Weekly schedule (links to repo)
+---
+
 # Weekly schedule (links to repo)
+
+Weeks link directly to the repo’s week folders.
 
 - Week 1 — Plan: https://github.com/steven-ryan/ap-csp_25-26/blob/main/week%201/this-week.md — Quiz: https://github.com/steven-ryan/ap-csp_25-26/blob/main/week%201/quiz.md
 - Week 2 — Plan: https://github.com/steven-ryan/ap-csp_25-26/blob/main/week%202/this-week.md — Quiz: https://github.com/steven-ryan/ap-csp_25-26/blob/main/week%202/quiz.md
