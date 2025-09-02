@@ -1,0 +1,49 @@
+---
+title: Week 14 — Lesson Plan
+---
+{% include topnav.md %}
+
+# Week 14 — MakeCode CSP Wrapper
+
+Primary lesson (MakeCode)
+- Use: Cybersecurity — Risk/Trade‑offs
+  https://microsoft.github.io/makecode-csp
+- Editor: Browser-based; toggle “Show Python” where available.
+
+Phase focus
+- Internet & Cybersecurity (CSN/IOC)
+
+In-class (teacher)
+- Orient students to the week’s MakeCode page(s); model small change → test → iterate.
+- Cold-call 1–2 quick checks aligned to AP pseudocode (DISPLAY → print, REPEAT → loops).
+- If applicable to Create PT weeks: checkpoint list use and a student-developed procedure with parameter(s).
+
+In-class (student)
+- Complete the week’s MakeCode tasks and at least one extension.
+- Save/share project link; note one bug fixed and how.
+
+Homework (≈120–180 min)
+- Finish MakeCode tasks; complete one extension.
+- AP Classroom (15–20 min): IOC‑2.* (security, encryption, risks)
+- Barron’s (20–30 min): Cybersecurity: encryption, risks, trade‑offs
+
+Self-study (optional, 15–30 min)
+- AP Daily: AP Daily: Internet + Cybersecurity
+
+Checks and deliverables
+- Mini-quiz (6–8 min): 3–4 items (pseudocode→Python, trace, concept check).
+- Submit: MakeCode project link + 3–5 bullet reflection.
+
+References
+- AP CSP Exam Reference Sheet (public on AP Central).
+- Blown to Bits (free): https://www.bitsbook.com
+- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
+- Acronym key: {{ site.baseurl }}/glossary.html
+
+Notes (moved from this-week.md)
+
+- Phase focus: Internet & Cybersecurity (CSN/IOC)
+- In-class: model “small change → test → iterate”; cold‑call pseudocode checks (DISPLAY → print; REPEAT → loops).
+- Quick checks: parameter vs argument; return vs print; list traversal; input validation (as relevant).
+- Assess: mini‑quiz (6–8 min) — pseudocode→Python, trace, concept check; AP Classroom completion check.
+
