@@ -1,6 +1,7 @@
 ---
 title: Student guide — submissions via Pull Request
 ---
+{% include topnav.md %}
 
 # Student guide — submissions via Pull Request
 

@@ -1,6 +1,7 @@
 ---
 title: Glossary and acronyms
 ---
+{% include topnav.md %}
 
 # Glossary and acronyms
 

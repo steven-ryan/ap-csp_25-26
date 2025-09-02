@@ -1,0 +1,1 @@
+[← Home]({{ site.baseurl }}/) · [Student guide]({{ site.baseurl }}/student-guide.html) · [Schedule]({{ site.baseurl }}/schedule.html) · [Weeks]({{ site.baseurl }}/weeks/) · [Pseudocode]({{ site.baseurl }}/pseudocode.html) · [Glossary]({{ site.baseurl }}/glossary.html)
