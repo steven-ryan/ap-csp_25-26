@@ -1,9 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SCRIPT_DIR="$(cd -- "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-DOCS_WEEKS="$ROOT/docs/weeks"
+# Run this from the course/ directory.
+if [[ ! -d ".github" || ! -d "scripts" ]]; then
+  echo "Please run from the course/ directory (where .github/ and scripts/ exist)."
+  exit 1
+fi
+
+DOCS_WEEKS="docs/weeks"
 INC_LINE="{% include topnav.md %}"
 
 mkdir -p "$DOCS_WEEKS"
@@ -21,7 +25,6 @@ gen_page() {
       print ""
     }
     {
-      # rewrite resource links to docs pages
       gsub(/\.\.\/resources\/Pseudocode_to_Python\.md/, "{{ site.baseurl }}/pseudocode.html");
       gsub(/\.\.\/resources\/Glossary_Acronyms\.md/, "{{ site.baseurl }}/glossary.html");
       print
@@ -29,7 +32,7 @@ gen_page() {
   ' "$src" > "$dest"
 }
 
-# Build weeks index page
+# Build/refresh weeks index
 INDEX_TMP="$(mktemp)"; trap 'rm -f "$INDEX_TMP"' EXIT
 {
   echo "---"
@@ -41,9 +44,9 @@ INDEX_TMP="$(mktemp)"; trap 'rm -f "$INDEX_TMP"' EXIT
   echo
 } > "$INDEX_TMP"
 
-# Move each "week X" dir into docs/weeks/week-X
-find "$ROOT" -maxdepth 1 -type d -name 'week *' -print0 | while IFS= read -r -d '' wdir; do
-  base="$(basename "$wdir")"                      # "week 4"
+# Process only week dirs inside course/
+find . -maxdepth 1 -type d -name 'week *' -print0 | while IFS= read -r -d '' wdir; do
+  base="$(basename "$wdir")"                # e.g., "week 4"
   week_num="$(printf "%s" "$base" | sed -E 's/^week[[:space:]]*//')"
   out="$DOCS_WEEKS/week-$week_num"
 
@@ -51,7 +54,7 @@ find "$ROOT" -maxdepth 1 -type d -name 'week *' -print0 | while IFS= read -r -d 
   gen_page "$wdir/quiz.md"        "$out/quiz.md"        "Week $week_num — Quiz"
   gen_page "$wdir/lesson-plan.md" "$out/lesson-plan.md" "Week $week_num — Lesson Plan"
 
-  # Add to list if anything exists
+  # Add to index if anything exists
   if [[ -f "$out/this-week.md" || -f "$out/quiz.md" || -f "$out/lesson-plan.md" ]]; then
     plan_link="{{ site.baseurl }}/weeks/week-$week_num/this-week.html"
     quiz_link="{{ site.baseurl }}/weeks/week-$week_num/quiz.html"
@@ -62,7 +65,7 @@ find "$ROOT" -maxdepth 1 -type d -name 'week *' -print0 | while IFS= read -r -d 
     echo "$line" >> "$INDEX_TMP"
   fi
 
-  # Remove original week dir after migration
+  # Remove original week dir after successful generation
   rm -rf "$wdir"
   echo "Migrated $base -> $out"
 done
