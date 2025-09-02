@@ -23,7 +23,7 @@ END IF
 DISPLAY(a)
 ```
 
-<details><summary>Answer</summary>
+<details markdown="1"><summary>Answer</summary>
 a starts as 3, 3 < 5 is true, so a ← 3 + 2 = 5. DISPLAY prints 5.
 </details>
 
@@ -39,7 +39,7 @@ ELSE
 END IF
 ```
 
-<details><summary>Answer</summary>
+<details markdown="1"><summary>Answer</summary>
 
 ```python
 age = int(input())
@@ -64,7 +64,7 @@ ELSE
 END IF
 ```
 
-<details><summary>Answer</summary>
+<details markdown="1"><summary>Answer</summary>
 The condition is reversed. n MOD 2 = 0 means even.
 
 ```text
@@ -82,7 +82,7 @@ Explanation: MOD gives the remainder. Even numbers have remainder 0 when divided
 4) Short response
 When would you use a variable instead of a constant in MakeCode or Python? Give one short example.
 
-<details><summary>Answer</summary>
+<details markdown="1"><summary>Answer</summary>
 Use a variable when the value can change during the program (e.g., a running total, score, user input). Constants are for values that don’t change (like PI, max lives).
 
 Example: keep a score that increases when the player earns points.
@@ -99,6 +99,6 @@ END REPEAT
 DISPLAY(total)
 ```
 
-<details><summary>Answer</summary>
+<details markdown="1"><summary>Answer</summary>
 Start 1 → after 1st: 2 → after 2nd: 4 → after 3rd: 8. DISPLAY prints 8.
 </details>
