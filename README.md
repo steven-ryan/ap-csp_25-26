@@ -15,3 +15,22 @@ How to submit (quick version)
 Notes
 - Checks must pass: format + PII scan.
 - No personal info or join codes.
+
+
+
+## PR to update docs:
+```
+cd "/.../School/2025-2026/AP Computer Science Principles/course"
+
+chmod +x scripts/set_current_week.sh
+
+# Example: set to Week 1 (change the number each week)
+bash scripts/set_current_week.sh 1
+
+# Commit via PR (recommended)
+git checkout -b set-week-01
+git add docs/schedule.md scripts/set_current_week.sh
+git commit -m "Docs: set current week to 1"
+git push -u origin set-week-01
+# Open PR and merge when checks pass
+```

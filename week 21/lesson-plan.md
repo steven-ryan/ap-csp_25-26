@@ -37,3 +37,11 @@ References
 Create PT note
 - Create PT: iterate; collect screenshots/clips for video; outline written responses.
 
+
+Notes (moved from this-week.md)
+
+- Phase focus: Create PT Planning + Prototyping
+- In-class: model “small change → test → iterate”; cold‑call pseudocode checks (DISPLAY → print; REPEAT → loops).
+- Quick checks: parameter vs argument; return vs print; list traversal; input validation (as relevant).
+- Assess: mini‑quiz (6–8 min) — pseudocode→Python, trace, concept check; AP Classroom completion check.
+
