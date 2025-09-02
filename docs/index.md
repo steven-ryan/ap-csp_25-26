@@ -7,7 +7,7 @@ title: AP CSP — Start here
 
 Quick links
 - Student guide (how to submit): [student-guide](student-guide.md)
-- Weekly schedule: [schedule](schedule.md)
+- Weekly schedule (links to plans/quizzes): [schedule](schedule.md)
 - Weeks (rendered in site): [weeks]({{ site.baseurl }}/weeks/)
 - Pseudocode mapping: [pseudocode](pseudocode.md)
 - Glossary: [glossary](glossary.md)
