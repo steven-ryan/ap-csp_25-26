@@ -3,19 +3,17 @@
 Start here (GitHub Pages)
 - Docs site: https://steven-ryan.github.io/ap-csp_25-26/
 - Student guide: docs/student-guide.md
+- Teacher guide: docs/teacher-guide.md
 - Weekly schedule: docs/schedule.md
 
 How to submit (quick version)
-1) Fork https://github.com/steven-ryan/ap-csp_25-26
-2) Create branch week-NN
-3) Scaffold your folder:
-   bash scripts/scaffold_week_submission.sh NN   # e.g., 01
-4) Edit student-submissions/week-NN/submission.md and add artifacts under homework/, quiz/, class-exercises/
-5) Push and open a Pull Request to upstream main
+1) Fork the repo, create branch week-NN
+2) bash scripts/scaffold_week_submission.sh NN
+3) Edit student-submissions/week-NN/submission.md
+4) Push and open a Pull Request to upstream main
 
 Notes
-- Checks must pass: format + PII scan + submission validator.
-- No personal info or join codes.
+- Checks must pass (pii_scan, weekly_validate). No personal info or join codes.
 
 ## Weekly tasks (teacher)
 - Update the new week’s docs under docs/weeks/week-N/ (this-week.md, quiz.md).

@@ -1,34 +1,53 @@
 ---
-title: Student guide — submissions via Pull Request
+title: Student Guide — How to submit weekly work
 ---
 {% include topnav.md %}
 
-# Student guide — submissions via Pull Request
+# Student Guide
 
-Steps (fork-first workflow)
-1) Fork: https://github.com/steven-ryan/ap-csp_25-26
-2) Create branch week-NN (e.g., week-06)
-3) Add file: student-submissions/week-NN/submission.md using templates/week-submission-template.md
-4) Commit and push to your fork
-5) Open a Pull Request to the upstream main and wait for checks to pass
+What you submit each week
+- File: student-submissions/week-NN/submission.md (NN is two digits, e.g., 01)
+- Include:
+  - MakeCode Links: at least one project link (https://makecode.com/…)
+  - Reflection: 3–5 bullets (what you built, one bug + fix, one benefit and one risk — IOC)
 
-Windows commands (Git Bash)
-```bash
-git config --global user.name "First Last"
-git config --global user.email "email@example.com"
-git clone https://github.com/<your-username>/ap-csp_25-26.git
-cd ap-csp_25-26
-git remote add upstream https://github.com/steven-ryan/ap-csp_25-26.git
-git checkout -b week-01
-mkdir -p "student-submissions/week-01"
-cp "templates/week-submission-template.md" "student-submissions/week-01/submission.md"
-git add "student-submissions/week-01/submission.md"
-git commit -m "Week 01 submission"
-git push -u origin week-01
-# Open PR: base repo steven-ryan/ap-csp_25-26, base: main, compare: week-01
-```
+Before you start (one-time)
+- Fork the course repo.
+- Clone your fork on your Mac:
+  - git clone https://github.com/<your-username>/ap-csp_25-26
+  - cd ap-csp_25-26
 
-Submission must include
-- Title “# Week NN Submission”
-- “MakeCode Links” section
-- “Reflection” section (3–5 bullets)
+Keep your fork up to date (each week)
+- Add upstream once: git remote add upstream https://github.com/steven-ryan/ap-csp_25-26
+- Sync main:
+  - git fetch upstream
+  - git checkout main
+  - git rebase upstream/main
+  - git push origin main
+
+Submit your weekly work (Week NN)
+- Create a branch: git checkout -b week-NN
+- Scaffold your folder: bash scripts/scaffold_week_submission.sh NN    # e.g., 01
+- Edit student-submissions/week-NN/submission.md
+- Add any artifacts under:
+  - student-submissions/week-NN/homework/
+  - student-submissions/week-NN/class-exercises/
+  - student-submissions/week-NN/quiz/ (usually empty)
+- Commit and push:
+  - git add student-submissions/week-NN
+  - git commit -m "Week NN submission"
+  - git push -u origin week-NN
+- Open a Pull Request to upstream main (compare: your fork’s week-NN -> steven-ryan/ap-csp_25-26 main)
+
+Passing checks
+- pii_scan: no personal info, join codes, or secrets in your files.
+- weekly_validate: your submission.md must have:
+  - Title line “# Week NN Submission”
+  - At least one link under “MakeCode Links”
+  - At least 3 reflection bullets under “Reflection”
+- Fix issues, push updates; checks re-run automatically.
+
+Tips
+- Use two digits for week number (01, 02, …).
+- Keep commits small and messages clear.
+- Ask if you hit merge conflicts; we can rebase together.
