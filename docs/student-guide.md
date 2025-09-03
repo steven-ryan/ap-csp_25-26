@@ -21,8 +21,11 @@ Before you start (one-time)
 Keep your fork up to date (each week)
 - Add upstream once: git remote add upstream https://github.com/steven-ryan/ap-csp_25-26
 - Quick sync (one line):
-  - git pull --rebase upstream main
--
+
+```bash
+git pull --rebase upstream main
+```
+ 
 
 Submit your weekly work (Week NN)
 - Create a branch: git checkout -b week-NN
