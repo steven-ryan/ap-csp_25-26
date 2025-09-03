@@ -10,7 +10,7 @@ Based on: Week 1 self-study (AP Daily: variables, conditionals, loops, procedure
 Instructions
 - No notes. Show your reasoning. Time: 6–8 minutes.
 
-1) Define and call a procedure with a parameter (AP pseudocode)
+1. Define and call a procedure with a parameter (AP pseudocode)
 Write a procedure greet(name) that DISPLAYs "Hello, " + name + "!" and show how to call it for the name "Ada".
 
 <details markdown="1"><summary>Answer</summary>
@@ -27,7 +27,7 @@ greet("Ada")
 Explanation: PROCEDURE defines a named block; parameter name receives the argument "Ada".
 </details>
 
-2) Return vs DISPLAY (what is printed?)
+2. Return vs DISPLAY (what is printed?)
 What is displayed by the following?
 
 ```text
@@ -52,7 +52,7 @@ DISPLAY(result)
 Output (in order): 5, 5, null.
 </details>
 
-3) Boolean logic (truth table reasoning)
+3. Boolean logic (truth table reasoning)
 Evaluate each expression (true/false) given x ← 4, y ← 7.
 
 a) (x < 5) AND (y = 7)
@@ -65,7 +65,7 @@ b) true OR false → true
 c) NOT(true) → false
 </details>
 
-4) Input validation (REPEAT UNTIL)
+4. Input validation (REPEAT UNTIL)
 Write AP pseudocode that repeats INPUT() until the user enters a number from 1 to 5 (inclusive). When valid, DISPLAY("OK").
 
 <details markdown="1"><summary>Answer</summary>
@@ -80,14 +80,14 @@ DISPLAY("OK")
 Notes: AP pseudocode treats INPUT() as text; range check shown conceptually.
 </details>
 
-5) Parameter vs argument (short response)
+5. Parameter vs argument (short response)
 In 1–2 sentences, define parameter vs argument and give one example from Q1.
 
 <details markdown="1"><summary>Answer</summary>
 A parameter is the variable in a procedure definition (e.g., name in PROCEDURE greet(name)). An argument is the actual value passed at the call site (e.g., "Ada" in greet("Ada")).
 </details>
 
-6) Lists (indexing is 1-based in AP pseudocode)
+6. Lists (indexing is 1-based in AP pseudocode)
 Given L ← ["A","B","C","D"], answer:
 a) What does DISPLAY(L[3]) show? 
 b) Write AP pseudocode to DISPLAY every item in L, one per line.

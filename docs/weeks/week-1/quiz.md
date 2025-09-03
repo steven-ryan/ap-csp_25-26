@@ -10,7 +10,7 @@ Based on: MakeCode CSP Unit 1 — Day 1 (Intro, variables, conditionals); AP Cla
 Instructions
 - No notes. Show work where helpful. Time: 6–8 minutes.
 
-1) Predict the output (trace variables)
+1. Predict the output (trace variables)
 Given the AP pseudocode, what is displayed?
 
 ```text
@@ -27,7 +27,7 @@ DISPLAY(a)
 a starts as 3, 3 < 5 is true, so a ← 3 + 2 = 5. DISPLAY prints 5.
 </details>
 
-2) Translate AP pseudocode to Python
+2. Translate AP pseudocode to Python
 Write equivalent Python for this pseudocode. Assume age is typed as an integer.
 
 ```text
@@ -52,7 +52,7 @@ else:
 Notes: INPUT() returns text; cast to int. DISPLAY maps to print.
 </details>
 
-3) Bug hunt (logic)
+3. Bug hunt (logic)
 The goal: print "Even" when n is divisible by 2, otherwise "Odd". What’s wrong, and fix it in AP pseudocode.
 
 ```text
@@ -79,7 +79,7 @@ END IF
 Explanation: MOD gives the remainder. Even numbers have remainder 0 when divided by 2.
 </details>
 
-4) Short response
+4. Short response
 When would you use a variable instead of a constant in MakeCode or Python? Give one short example.
 
 <details markdown="1"><summary>Answer</summary>
@@ -88,7 +88,7 @@ Use a variable when the value can change during the program (e.g., a running tot
 Example: keep a score that increases when the player earns points.
 </details>
 
-5) Loop trace (REPEAT TIMES)
+5. Loop trace (REPEAT TIMES)
 What does the program display?
 
 ```text
