@@ -41,12 +41,6 @@ References
 - Acronym key: {{ site.baseurl }}/glossary.html
 
 
-TOOD:
-- []  Compare AP Daily to https://www.youtube.com/watch?v=cs58aO6XczY&list=PLoGgviqq4844vbwcKegJgIxSQyVHDzSXT
-- [ ] extra support here worth it: https://www.youtube.com/watch?v=HHSokBrStpQ&list=PLoGgviqq48452kiJGcpqKhgNuPFDahbaS
-- chec the note folder Teachers notes and study plan, some solid pdfs I should read
-
-
 # Teacher Lesson Plan — Week 1
 
 Focus
@@ -61,6 +55,41 @@ Quick checks
 Assess
 - Mini‑quiz (6–8 min) — pseudocode→Python, trace, concept check; AP Classroom completion check.
 
-Links
-- Student plan: this-week.md
-- Quiz: quiz.md
+## Teacher prep (before class)
+- Review and merge student PRs for Week 01 on GitHub (ensure checks pass).
+- Sync local repo:
+  - git checkout main && git pull
+- Generate a quick summary of student links and before‑class notes (optional):
+  - bash scripts/collect_week_submissions.sh 01 > /tmp/week-01-summary.md
+  - Open /tmp/week-01-summary.md during class for quick access to links.
+- Verify this week’s docs are live:
+  - Plan: {{ site.baseurl }}/weeks/week-1/this-week.html
+  - Quiz: {{ site.baseurl }}/weeks/week-1/quiz.html
+
+## How to use this week
+- In class: pick a short code.org App Lab level for variables or conditionals as a live demo; use one CFU as the exit ticket.
+- After class: 2–4 code.org levels + AP Daily clips; Barron’s Quick Quiz for the assigned reading.
+- Periodic: every 3–4 weeks, pull a Barron’s mini set as a timed check.
+
+## Supplemental resources (optional)
+- Code.org CSP (free): https://code.org/en-US/curriculum/computer-science-principles
+  - Use 1–2 short App Lab levels on variables/conditionals/loops from the Algorithms & Programming lessons as:
+    - In class: a 10–15 min guided demo + 1 CFU (“Check for Understanding”) as an exit ticket.
+    - After class: assign 2–4 levels for practice; review CFU results together.
+  - Teacher tools: embedded videos, printable lesson plans, CFU auto-graded items, rubrics.
+- AP Daily (AP Classroom): short clips on variables, conditionals, loops, procedures, lists (see student “How to find AP Daily” in the Week plan).
+
+## Barron’s usage (assessment)
+- Weekly: have the student complete the “Quick Quiz” for the pages assigned (About AP CSP; Programming Fundamentals). Review any misses next class.
+- Every 3–4 weeks: give a short set (10–15 items) from a Barron’s Unit Review or Practice Exam section under timed conditions; discuss strategies/errors.
+
+## Teacher prep (before class)
+- Review and merge student PRs for Week 01 on GitHub (ensure checks pass).
+- Sync local repo:
+  - git checkout main && git pull
+- Generate a quick summary of student links and before‑class notes (optional):
+  - bash scripts/collect_week_submissions.sh 01 > /tmp/week-01-summary.md
+  - Open /tmp/week-01-summary.md during class for quick access to links.
+- Verify this week’s docs are live:
+  - Plan: {{ site.baseurl }}/weeks/week-1/this-week.html
+  - Quiz: {{ site.baseurl }}/weeks/week-1/quiz.html

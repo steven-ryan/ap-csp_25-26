@@ -9,6 +9,7 @@ What you submit each week
 - File: student-submissions/week-NN/submission.md (NN is two digits, e.g., 01)
 - Include:
   - MakeCode Links: at least one project link (https://makecode.com/…)
+  - Before Class Notes: bullets (what you watched/read; notes on what you learned;  questions, things to discuss)
   - Reflection: 3–5 bullets (what you built, one bug + fix, one benefit and one risk — IOC)
 
 Before you start (one-time)
@@ -19,11 +20,9 @@ Before you start (one-time)
 
 Keep your fork up to date (each week)
 - Add upstream once: git remote add upstream https://github.com/steven-ryan/ap-csp_25-26
-- Sync main:
-  - git fetch upstream
-  - git checkout main
-  - git rebase upstream/main
-  - git push origin main
+- Quick sync (one line):
+  - git pull --rebase upstream main
+-
 
 Submit your weekly work (Week NN)
 - Create a branch: git checkout -b week-NN
@@ -31,6 +30,7 @@ Submit your weekly work (Week NN)
 - Edit student-submissions/week-NN/submission.md
 - Add any artifacts under:
   - student-submissions/week-NN/homework/
+    - Tip: create homework/before-class-notes.md and link it from submission.md
   - student-submissions/week-NN/class-exercises/
   - student-submissions/week-NN/quiz/ (usually empty)
 - Commit and push:
