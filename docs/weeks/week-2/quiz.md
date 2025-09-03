@@ -5,7 +5,7 @@ title: Week 2 — Quiz
 
 # Mini-Quiz (6–8 min) — Week 2: Procedures, Parameters, Boolean Logic
 
-Based on: Week 2 plan (procedures with/without return values, parameters/arguments, Boolean expressions, input validation)
+Based on: Week 1 self-study (AP Daily: variables, conditionals, loops, procedures, lists) and Week 1 in-class work
 
 Instructions
 - No notes. Show your reasoning. Time: 6–8 minutes.
@@ -85,4 +85,20 @@ In 1–2 sentences, define parameter vs argument and give one example from Q1.
 
 <details markdown="1"><summary>Answer</summary>
 A parameter is the variable in a procedure definition (e.g., name in PROCEDURE greet(name)). An argument is the actual value passed at the call site (e.g., "Ada" in greet("Ada")).
+</details>
+
+6) Lists (indexing is 1-based in AP pseudocode)
+Given L ← ["A","B","C","D"], answer:
+a) What does DISPLAY(L[3]) show? 
+b) Write AP pseudocode to DISPLAY every item in L, one per line.
+
+<details markdown="1"><summary>Answer</summary>
+a) "C" — AP pseudocode is 1-based (L[1]="A", L[2]="B", L[3]="C").
+b)
+```text
+FOR EACH item IN L
+  DISPLAY(item)
+END FOR EACH
+```
+Notes: FOR EACH iterates elements directly; no index math needed.
 </details>
