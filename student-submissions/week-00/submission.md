@@ -5,5 +5,5 @@ MakeCode Links
 
 Reflection
 - What I prepared this week.
-- One question I have.
-- One goal for Week 01.
+    Could **not** open AP Classroom → AP Computer Science Principles.
+    **Done** https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course
