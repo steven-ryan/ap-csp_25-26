@@ -5,6 +5,10 @@ title: Teacher Guide — Weekly workflow
 
 # Teacher Guide
 
+### Privacy and safety (always)
+- Public repo: reject PRs containing PII (names, emails, addresses, schedules, photos, class codes, tokens).
+- Run pii_scan locally if needed; remind students to use initials/GitHub handle and blur screenshots.
+
 Weekly checklist (N = current week number)
 1. Update docs/weeks/week-N/:
    - this-week.md (student plan)

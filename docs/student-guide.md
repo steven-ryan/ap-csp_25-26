@@ -5,6 +5,10 @@ title: Student Guide — How to submit weekly work
 
 # Student Guide
 
+**Privacy reminder — public repo**
+- Do not commit personally identifiable information (PII): full names, emails, phone numbers, addresses, school names/schedules, photos of faces, class/join codes, invite links, tokens/keys.
+- Use your GitHub handle or first name only (if permitted). Crop/blur names in screenshots.
+
 What you submit each week
 - File: student-submissions/week-NN/submission.md (NN is two digits, e.g., 01)
 - Include:
@@ -22,10 +26,10 @@ Keep your fork up to date (each week)
 - Add upstream once: git remote add upstream https://github.com/steven-ryan/ap-csp_25-26
 - Quick sync (one line):
 
-```bash
-git pull --rebase upstream main
-```
- 
+    ```text
+    git pull --rebase upstream main
+    ```
+
 
 Submit your weekly work (Week NN)
 - Create a branch: git checkout -b week-NN
@@ -48,7 +52,7 @@ Passing checks
   - Title line “# Week NN Submission”
   - At least one link under “MakeCode Links”
   - At least 3 reflection bullets under “Reflection”
-- Fix issues, push updates; checks re-run automatically.
+- No PII: PRs with PII will be rejected; fix and resubmit.
 
 Tips
 - Use two digits for week number (01, 02, …).

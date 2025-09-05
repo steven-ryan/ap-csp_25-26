@@ -1,1 +1,7 @@
-[← Home]({{ site.baseurl }}/) · [Student guide]({{ site.baseurl }}/student-guide.html) · [Schedule]({{ site.baseurl }}/schedule.html) · [Weeks]({{ site.baseurl }}/weeks/) · [Pseudocode]({{ site.baseurl }}/pseudocode.html) · [Glossary]({{ site.baseurl }}/glossary.html)
+[Home]({{ site.baseurl }}/) |
+[Weeks]({{ site.baseurl }}/weeks/) |
+[Schedule]({{ site.baseurl }}/schedule.html) |
+[Student Guide]({{ site.baseurl }}/student-guide.html) |
+[Teacher Guide]({{ site.baseurl }}/teacher-guide.html) |
+[Pseudocode]({{ site.baseurl }}/pseudocode.html) |
+[Glossary]({{ site.baseurl }}/glossary.html)
