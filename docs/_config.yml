@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: AP CSP — Course
 description: Student guide, submission instructions, and weekly links
 baseurl: /ap-csp_25-26
+markdown: kramdown
+kramdown:
+  input: GFM
