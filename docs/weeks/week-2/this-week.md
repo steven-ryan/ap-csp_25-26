@@ -5,31 +5,36 @@ title: Week 2 — Plan
 
 # Week 2: This Week in AP CSP
 
-Before class (10–20 min)
-- Barron’s: About the AP CSP Exam; Programming Fundamentals
-- Optional: AP Daily — AP Daily clips on variables, conditionals, loops, procedures, lists
+## Before class (10–20 min)
+- Barron’s: Big Idea 1: Creative development
+    - pages 133-135 Computing innovations
+    - skim over pages 136-137 to get a grasp of text and graphical based code style you will see in the exam 
+    - page 138-139 program input, stop at development process
+- sign up to code.org (can use google account) as a student  https://studio.code.org/courses/csp-2025/units/1/lessons/1/student
+  -  visit this link to join my thing: https://studio.code.org/join/LSXHGJ
+  - Watch  
+    - Computer Science is Changing Everything : https://www.youtube.com/watch?v=QvyTEx1wyOY
+    - How Computers Work: What Makes a Computer, a Computer? https://www.youtube.com/watch?v=mCq8-xTH7jA
+  - print these 2 things bring to class: https://docs.google.com/document/d/1l19mBWEkYLt-cIZbahv8JrrbRQFnwQQajmeq-r5InsU/edit?tab=t.0, https://docs.google.com/document/d/17GrZRYeVRMKwo9vbW-xVT1-Ccu0U2n88Thr-kMqu4s4/edit?tab=t.0 and 
+  
 
-In class (60–90 min)
-- MakeCode CSP: Unit 1 — Day 2 (Procedures/Parameters)
-  https://microsoft.github.io/makecode-csp
-- Focus: Procedures/functions with parameters; refactoring
-- Do: complete all activities and one extension; save/share the project link.
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): CRD 1.1; AAP basics (variables, conditionals, loops)
-- Reading (20–30 min): Barron’s — About the AP CSP Exam; Programming Fundamentals
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
-
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
-
-Due
-- Start of next class: ______ (insert date/time).
-
-## References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
+## Primary lesson (MakeCode)
+- Use: Continue Unit 1 — https://microsoft.github.io/makecode-csp
+- Barrons Big Idea 1: Creative development
+  - p139-148 development process, documentation etc adn the questions
+- Capture Brainstorm ideas
 - Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
+- Quiz: {{ site.baseurl }}/weeks/week-2/quiz.html
 - Acronym key: {{ site.baseurl }}/glossary.html
+- Code.Org (Lesson 3: Circle Square Patterns)
+  - Teacher: https://studio.code.org/courses/csp-2025/units/1/lessons/3#activity-section-51807151, https://docs.google.com/presentation/d/18d8nkIg9HvhD0pLiSzmhR9b-pEzab_gxXf-paGy5NS8/template/preview
+  - Student: https://studio.code.org/courses/csp-2025/units/1/lessons/3/student
+
+
+
+
+## After class
+- Teacher - set the before class for the next
+
 
