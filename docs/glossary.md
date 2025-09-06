@@ -74,9 +74,8 @@ Administration
 
  
 ## Details mapping to course
-<div style="overflow-x:auto">
 | Big Idea | Description | Key Computational Thinking Practices (P1–P6) | Barron’s 2026 Chapter(s) | Notes for Teaching |
-|----------|-------------|-----------------------------------------------|--------------------------|--------------------|
+|----------|-------------|-----------------------------------------------|---------------------------|--------------------|
 | **Big Idea 1: Creative Development** | Program design, collaboration, documentation, iterative development, Create Task | **P1:** Collaboration, **P3:** Abstraction, **P5:** Testing | Ch. 1–2 | Start Create Task brainstorming early. Emphasize teamwork, documentation, and reflection. |
 | **Big Idea 2: Data** | Data representation (binary, images, text, sound), compression, visualization, abstraction | **P2:** Abstraction, **P4:** Communication | Ch. 3 | Do hands-on binary conversions, lossless vs lossy compression, and simple data analysis projects. |
 | **Big Idea 3: Algorithms & Programming (Part 1)** | Sequencing, selection, iteration, algorithms, problem solving | **P2:** Abstraction, **P3:** Algorithms, **P5:** Testing | Ch. 4 | Practice AP pseudocode. Compare efficiency of algorithms (e.g., linear vs binary search). |
@@ -110,3 +109,4 @@ Administration
 | **Big Idea 4: Computer Systems & Networks** | Unit 2: The Internet<br>Unit 10: Cybersecurity & Global Impacts | Ch. 6 (Computer Systems & Networks) | Internet structure, IP, DNS, TCP, fault tolerance, cybersecurity. Hands-on activities: simulate packet transfers, discuss cyberattacks. |
 | **Big Idea 5: Impact of Computing** | Unit 9: Data<br>Unit 10: Cybersecurity & Global Impacts | Ch. 7 (Impact of Computing) | Explore ethics, privacy, intellectual property, innovation, and global issues. Class debates and case studies work well here. |
 | **Practice & Exam Prep** | Woven throughout Code.org, especially after Unit 8 | Ch. 8+ (Practice Tests & Strategies) | Simulate exam conditions: multiple-choice practice, Create Task rubric review, timed exercises. |
+ 
