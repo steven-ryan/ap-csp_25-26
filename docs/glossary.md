@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Glossary and acronyms
 ---
 {% include topnav.md %}
