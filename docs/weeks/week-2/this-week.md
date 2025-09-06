@@ -21,6 +21,8 @@ title: Week 2 — Plan
 
 ## Primary lesson (MakeCode)
 - Use: Continue Unit 1 — https://microsoft.github.io/makecode-csp
+  - Slide https://onedrive.live.com/:w:/g/personal/416406873CB120AB/s!AqsgsTyHBmRBkAURgj6J6FeTpA8d?resid=416406873CB120AB!2053&ithint=file%2Cdocx&e=x8G6ae&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvcyFBcXNnc1R5SEJtUkJrQVVSZ2o2SjZGZVRwQThkP2U9eDhHNmFl
+  - https://microsoft.github.io/makecode-csp/unit-1/day-3/why-learn-cs
 - Barrons Big Idea 1: Creative development
   - p139-148 development process, documentation etc adn the questions
 - Capture Brainstorm ideas
