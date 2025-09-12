@@ -35,6 +35,13 @@ else:
 ```
 
 Loops
+ REPEAT UNTIL: INPUT() until the user enters a number from 1 to 5 (inclusive). When valid, DISPLAY(“OK”).
+```
+REPEAT
+  SET n ← INPUT()
+UNTIL (n ≥ 1) AND (n ≤ 5)
+DISPLAY("OK")
+```
 - REPEAT n TIMES → Python for over range(n)
 ```python
 for i in range(n):   # i = 0..n-1
