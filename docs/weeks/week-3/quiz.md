@@ -5,6 +5,32 @@ title: Week 3 — Quiz
 
 # Mini-Quiz (6–8 min) — Week 3: Loops and Lists
 
+- What is an analog signal and provide examples
+- What is a digital signal and provide examples
+
+
+<details markdown="1"><summary>Answer</summary>
+* analog signals has values that change smoothly over time rather than in discrete intervals.  Examples: Key Fob, radio waves, television waves, or sound waves
+* digital signals are analog signals broken in to steps - examples CD, MP3, digital photo, digital electronics e.g. PIR sensor/voltage
+</details>
+
+
+- What is a Bit
+
+<details markdown="1"><summary>Answer</summary>
+Bit - A contraction of "Binary Digit"; the single unit of information in a computer, typically represented as a 0 or 1</details>
+
+- What is a byte
+
+<details markdown="1"><summary>Answer</summary>
+Byte - 8 bits
+</details>
+
+- What is binary, what is decimal
+
+<details markdown="1"><summary>Answer</summary>
+Binary - A way of representing information using only two options</details>
+
 Based on: traversal patterns (FOR EACH, REPEAT n TIMES), accumulation, list indexing (AP=1-based vs Python=0-based)
 
 Instructions

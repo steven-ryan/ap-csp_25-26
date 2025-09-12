@@ -6,15 +6,7 @@ title: Week 2 — Plan
 # Week 2: This Week in AP CSP
 
 ## Before class (10–20 min)
-- Barron’s: Big Idea 1: Creative development
-    - pages 133-135 Computing innovations
-    - skim over pages 136-137 to get a grasp of text and graphical based code style you will see in the exam 
-    - page 138-139 program input, stop at development process
-- sign up to code.org (can use google account) as a student  https://studio.code.org/courses/csp-2025/units/1/lessons/1/student
-  -  visit this link to join my thing: https://studio.code.org/join/LSXHGJ
-  - Watch  
-    - Computer Science is Changing Everything : https://www.youtube.com/watch?v=QvyTEx1wyOY
-    - How Computers Work: What Makes a Computer, a Computer? https://www.youtube.com/watch?v=mCq8-xTH7jA
+
   - print these 2 things bring to class: https://docs.google.com/document/d/1l19mBWEkYLt-cIZbahv8JrrbRQFnwQQajmeq-r5InsU/edit?tab=t.0, https://docs.google.com/document/d/17GrZRYeVRMKwo9vbW-xVT1-Ccu0U2n88Thr-kMqu4s4/edit?tab=t.0 and 
   
 
@@ -36,7 +28,9 @@ title: Week 2 — Plan
 
 
 
-## After class
-- Teacher - set the before class for the next
+## Home Work
+- Do the odd questions in the 23 question quiz
+- Barrons: Big Idea 2: Data pages 149-152 (make notes)
+- Create a nodes.md file and move stuff form your word docx file in there
 
 

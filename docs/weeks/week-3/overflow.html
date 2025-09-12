@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Integer Overflow Demo (Fixed)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    label { display:inline-block; min-width:120px; margin:6px 8px 6px 0; }
+    input, select { padding:6px; font-size:1rem; margin-right:10px; width:160px; }
+    button { padding:8px 12px; font-size:1rem; }
+    .result { margin-top:18px; padding:12px; border:1px solid #ddd; background:#fafafa; white-space:pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>Integer Overflow Simulator</h1>
+
+  <p>Enter two integers, choose a bit width, then click <strong>Add</strong>.</p>
+
+  <div>
+    <label for="numA">Number A</label>
+    <input id="numA" type="number" value="127" />
+  </div>
+  <div>
+    <label for="numB">Number B</label>
+    <input id="numB" type="number" value="1" />
+  </div>
+  <div>
+    <label for="bitWidth">Bit width</label>
+    <select id="bitWidth">
+      <option value="8">8-bit</option>
+      <option value="16">16-bit</option>
+      <option value="32" selected>32-bit</option>
+    </select>
+    <button id="addBtn" type="button">Add</button>
+  </div>
+
+  <div class="result" id="output">Results will appear here.</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('addBtn').addEventListener('click', demoOverflow);
+});
+
+function demoOverflow() {
+  const a = BigInt(document.getElementById('numA').value || "0");
+  const b = BigInt(document.getElementById('numB').value || "0");
+  const bits = BigInt(document.getElementById('bitWidth').value);
+
+  const sum = a + b;
+  const twoPower = 1n << bits;       // 2^bits
+  const mask = twoPower - 1n;
+
+  const unsignedVal = sum & mask;
+
+  // signed interpretation
+  const signedThreshold = 1n << (bits - 1n);
+  const signedVal = (unsignedVal >= signedThreshold) ? unsignedVal - twoPower : unsignedVal;
+
+  function toBinaryPadded(bigintVal, width) {
+    let s = bigintVal.toString(2);
+    if (s.length > width) {
+      s = s.slice(-Number(width)); // safe here because width <= 32
+    } else {
+      s = s.padStart(Number(width), '0');
+    }
+    return s;
+  }
+
+  const output = [
+    `Inputs: A=${a.toString()}  B=${b.toString()}  (${bits}-bit)`,
+    ``,
+    `Mathematical sum: ${sum.toString()}`,
+    ``,
+    `Unsigned ${bits}-bit result: ${unsignedVal.toString()}`,
+    `Signed ${bits}-bit result: ${signedVal.toString()}`,
+    ``,
+    `Binary (SUM mod 2^${bits}): ${toBinaryPadded(unsignedVal, bits)}`
+  ].join('\n');
+
+  document.getElementById('output').textContent = output;
+}
+</script>
+</body>
+</html>

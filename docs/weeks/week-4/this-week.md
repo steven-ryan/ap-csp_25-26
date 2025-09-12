@@ -5,30 +5,10 @@ title: Week 4 — Plan
 
 # Week 4: This Week in AP CSP
 
-Before class (10–20 min)
-- Barron’s: Procedures/Parameters; Abstraction & Managing Complexity
-- Optional: AP Daily — AP Daily clips on variables, conditionals, loops, procedures, lists
+ 
+- overflow.html:  Try A=250, B=1, 8-bit 
 
-In class (60–90 min)
-- MakeCode CSP: Unit 1 — Functions/Abstraction
-  https://microsoft.github.io/makecode-csp
-- Focus: Procedures design; abstraction and reuse
-- Do: complete all activities and one extension; save/share the project link.
+overflow and roundng
+https://studio.code.org/teacher_dashboard/sections/6109201/materials
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): AAP‑3.* (procedures, parameters, abstraction)
-- Reading (20–30 min): Barron’s — Procedures/Parameters; Abstraction & Managing Complexity
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
-
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
-
-Due
-- Start of next class: ______ (insert date/time).
-
-References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
-- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
-- Acronym key: {{ site.baseurl }}/glossary.html
+find ms equiv with barrons
