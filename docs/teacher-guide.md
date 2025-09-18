@@ -10,8 +10,7 @@ Fllow code.org in order, suplement with barrons and Make code
 Weekly checklist (N = current week number)
 1. Update docs/weeks/week-N/:
    - this-week.md (student plan)
-   - quiz.md (clear prompts + inline answers using <details markdown="1">)
-   - lesson-plan.md (teacher notes; include “How to use this week”)
+   - quiz.md (clear prompts + inline answers using <details markdown="1">this</details>)
 2. Rebuild Weeks index and set current week:
    - #bash scripts/rebuild_weeks_index.sh
    - bash scripts/set_current_week.sh N

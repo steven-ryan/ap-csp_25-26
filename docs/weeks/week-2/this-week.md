@@ -32,6 +32,7 @@ title: Week 2 — Plan
 - Do the odd questions in the 23 question quiz
 - Barrons: Big Idea 2: Data pages 149-152 (make notes)
 - watch https://www.youtube.com/watch?v=wgbV6DLVezo (make notes)
+- Read 'Jeannette M. Wing's "Computational Thinking" Article'
 - Create a nodes.md file and move stuff form your word docx file in there
 
 
