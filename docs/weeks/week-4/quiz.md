@@ -9,6 +9,33 @@ Q1–Q4 aligned to: Unit 1 — Abstraction/Functions; AP Classroom AAP‑3.* (pr
 
 ---
 
+## Q0. What is an abstraction in computer science?
+
+<details markdown="1">
+<summary>Answer</summary>
+An abstraction is a simplified representation of something complex that hides unnecessary details, allowing us to focus on high-level operations or ideas.
+</details>
+
+---
+
+## Q0b. Give an example of abstraction in programming.
+
+<details markdown="1">
+<summary>Answer</summary>
+Examples: Using a function to perform a task without knowing its internal code; variables representing data; using a map or list data structure without knowing how it is implemented.
+</details>
+
+---
+
+## Q0c. Why are abstractions important in computer science?
+
+<details markdown="1">
+<summary>Answer</summary>
+Abstractions help manage complexity, make code easier to read and maintain, and allow programmers to build on top of existing solutions without needing to understand every detail.
+</details>
+
+---
+
 ## Q1. Convert the following binary number to decimal:
 101101₂
 
