@@ -5,6 +5,7 @@ title: Teacher Guide — Weekly workflow
 
 # Teacher Guide
 
+
 Fllow code.org in order, suplement with barrons and Make code
 
 Weekly checklist (N = current week number)
