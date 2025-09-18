@@ -1,11 +1,12 @@
 # Week 03 Submission
 
 Barron’s: 
-    read pages p149/152
+    read pages 149/152
+    read pages 163/168
 
 
 
-Done odd questions in the 23 question quiz
+Done even questions in the 23 question quiz
 
 watched https://www.youtube.com/watch?v=wgbV6DLVezo
 
