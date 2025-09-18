@@ -1,6 +1,62 @@
 
 
-# AP Computer Science Principles Course Plan (Sept–May)
+# code.org
+
+## AP Computer Science Principles Course Plan (Sept–May)
+Code.org has 10 units
+Unit 1. Digital Information: 13 lessons
+Unit 2. The Internet: 8 lessons
+Unit 3. Intro to App Design: 6 lessons
+Unit 4. Variables, Conditionals, and Functions: 13 lessons
+Unit 5. Data: 9 lessons
+Unit 6. Lists, Loops, and Traversals: 14 lessons
+Unit 7. Parameters, Return, and Libraries: 11 lessons
+Unit 8. Cybersecurity and Global Impacts: 11 lessons
+Unit 9. Create PT Prep: 4 lessons
+Unit 10. Algorithms: 9 lessons
+Assessments are locked
+
+## Pacing
+Aim for three lessons a week
+| Week | Start Date  | Month      | Unit & Lesson(s) Covered           | Notes/Holidays                |
+|------|-------------|------------|------------------------------------|-------------------------------|
+| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2                             |
+| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed                             |
+| 3    | Sep 15      | September  | Unit 1: Lessons 7–9                |         Completing lesson 4 (Binary), and  Lesson 5 (overflow and rounding)                       |
+| 4    | Sep 22      | September  | Unit 1: Lessons 10–13              |                               |
+| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Lessons 9,10,11,12                             |
+| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                | Lesson 13 - assessment then unit 2 lessons 1-3                              |
+| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |                               |
+| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |                               |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |                               |
+| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |                               |
+| 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |                               |
+| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |                               |
+| 13   | Nov 24      | November   | Thanksgiving Break                  | No class                      |
+| 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  |                               |
+| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                |                               |
+| 16   | Dec 15      | December   | Unit 5: Lessons 5–7                |                               |
+| 17   | Dec 22      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)       |
+| 18   | Dec 29      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)       |
+| 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  |                               |
+| 20   | Jan 12      | January    | Unit 6: Lessons 3–5                |                               |
+| 21   | Jan 19      | January    | Unit 6: Lessons 6–8                |                               |
+| 22   | Jan 26      | January    | Unit 6: Lessons 9–11               |                               |
+| 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  |                               |
+| 24   | Feb 9       | February   | Unit 7: Lessons 2–4                |                               |
+| 25   | Feb 16      | February   | Unit 7: Lessons 5–7                |                               |
+| 26   | Feb 23      | February   | Unit 7: Lessons 8–11               |                               |
+| 27   | Mar 2       | March      | Unit 8: Lessons 1–4                |                               |
+| 28   | Mar 9       | March      | Unit 8: Lessons 5–7, Unit 9: L1    |                               |
+| 29   | Mar 16      | March      | Unit 9: Lessons 2–4                |                               |
+| 30   | Mar 23      | March      | Unit 9: Lessons 5–6, Unit 10: L1   |                               |
+| 31   | Mar 30      | March      | Unit 10: Lessons 2–4               |                               |
+| 32   | Apr 6       | April      | Unit 10: Lessons 5–7               |                               |
+| 33   | Apr 13      | April      | Unit 10: Lessons 8–9, Review/PT    |                               |
+| 34   | Apr 20      | April      | Create PT, AP Exam Prep            |                               |
+| 35   | Apr 27      | April      | AP Exam Prep, Practice Tests       | AP Exam mid-May               |
+
+
 
 ## Fall Term (Sept – Dec)
 

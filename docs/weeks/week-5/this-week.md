@@ -5,30 +5,29 @@ title: Week 5 — Plan
 
 # Week 5: This Week in AP CSP
 
-Before class (10–20 min)
-- Barron’s: Procedures/Parameters; Abstraction & Managing Complexity
-- Optional: AP Daily — AP Daily clips on variables, conditionals, loops, procedures, lists
+Imcoplete barrons pages and codeorg links 
 
-In class (60–90 min)
-- MakeCode CSP: Unit 1 — Lists/Arrays
-  https://microsoft.github.io/makecode-csp
-- Focus: Lists/arrays and traversals
-- Do: complete all activities and one extension; save/share the project link.
+ 
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): AAP‑3.* (procedures, parameters, abstraction)
-- Reading (20–30 min): Barron’s — Procedures/Parameters; Abstraction & Managing Complexity
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
 
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
 
-Due
-- Start of next class: ______ (insert date/time).
+## Lesson 11: Intellectual Property
+Barron’s:
 
-References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
-- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
-- Acronym key: {{ site.baseurl }}/glossary.html
+Chapter 7: Impact of Computing
+Section: “Intellectual Property”
+Covers copyright, fair use, Creative Commons, digital rights.
+
+
+## Lesson 12: Project – Digital Information Dilemmas
+Barron’s:
+Chapter 7: Impact of Computing
+Section: “Ethical and Social Implications”
+Subsections on privacy, security, and dilemmas related to digital information.
+
+
+ADD MORE?
+
+Home work:
+- Do Chapter 3 - Bit idea 2 Data quid Odd questions
+

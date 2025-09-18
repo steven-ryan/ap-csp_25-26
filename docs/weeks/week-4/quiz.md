@@ -63,3 +63,76 @@ Q1–Q4 aligned to: Unit 1 — Abstraction/Functions; AP Classroom AAP‑3.* (pr
 <summary>Sample Answer</summary>
 
 Computers use binary because digital circuits have two stable states (on/off, 1/0), making it reliable and easy to represent data and instructions
+
+---
+
+## Q6. What is overflow in binary addition? Give an example.
+
+<details markdown="1">
+<summary>Answer</summary>
+
+Overflow occurs when the result of a binary addition is too large to fit in the available number of bits. For example, adding 1111₂ (15 in decimal) + 1₂ (1 in decimal) in 4 bits gives 10000₂, but only the last 4 bits (0000) are kept, so the result is 0 and the overflow is lost.
+
+</details>
+
+---
+
+## Q7. What happens when a number is too large to be stored in 8 bits?
+
+<details markdown="1">
+<summary>Answer</summary>
+
+The value wraps around and only the least significant 8 bits are kept. For example, 255 + 1 = 256, but in 8 bits, 256 is 100000000₂, so only 00000000₂ (0) is stored and the overflow is lost.
+
+</details>
+
+---
+
+## Q8. What is rounding error? Give an example with binary fractions.
+
+<details markdown="1">
+<summary>Answer</summary>
+
+Rounding error happens when a number cannot be exactly represented in binary, so it is rounded to the nearest value. For example, 0.1 in decimal cannot be exactly written in binary, so computers store an approximation, which can lead to small errors in calculations.
+
+</details>
+
+---
+
+## Q9. Why do computers sometimes give imprecise answers when adding decimals like 0.1 + 0.2?
+
+<details markdown="1">
+<summary>Answer</summary>
+
+Because numbers like 0.1 and 0.2 cannot be exactly represented in binary, their stored values are approximations. When added, the result may not be exactly 0.3 due to these small rounding errors.
+
+</details>
+
+
+---
+
+## Q10. What is lossless compression? Give an example.
+
+<details markdown="1">
+<summary>Answer</summary>
+Lossless compression reduces file size without losing any information. The original data can be perfectly reconstructed. Example: ZIP files, PNG images.
+</details>
+
+---
+
+## Q11. What is lossy compression? Give an example.
+
+<details markdown="1">
+<summary>Answer</summary>
+Lossy compression reduces file size by removing some data, resulting in a loss of quality. The original data cannot be perfectly restored. Example: JPEG images, MP3 audio.
+</details>
+
+---
+
+## Q12. What is the main trade-off between lossy and lossless compression?
+
+<details markdown="1">
+<summary>Answer</summary>
+Lossy compression achieves smaller file sizes but loses some information, while lossless keeps all information but may not compress as much.
+</details>
+
