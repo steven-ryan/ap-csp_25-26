@@ -162,4 +162,3 @@ Lossy compression reduces file size by removing some data, resulting in a loss o
 <summary>Answer</summary>
 Lossy compression achieves smaller file sizes but loses some information, while lossless keeps all information but may not compress as much.
 </details>
-
