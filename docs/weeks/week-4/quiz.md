@@ -1,164 +1,135 @@
----
-title: Week 4 — Quiz
----
+title: Week 5 — Quiz
 {% include topnav.md %}
 
-# Mini-Quiz (6–8 min)
+# Mini-Quiz (6–8 min) — Week 5: Representing Text & Images
 
-Q1–Q4 aligned to: Unit 1 — Abstraction/Functions; AP Classroom AAP‑3.* (procedures/abstraction) and AAP‑2.* (lists); Barron’s Procedures/Parameters; Abstraction.
+Covers: ASCII, representing text, black & white images, color images (AP CSP, code.org Lessons 6–8)
+
+#TODO
+Examples: JPEG, MP3, what information is lost.
+why/when/RAW format
+
 
 ---
 
-## Q0. What is an abstraction in computer science?
+## Q1. What is ASCII and why is it important in computing?
 
 <details markdown="1">
 <summary>Answer</summary>
-An abstraction is a simplified representation of something complex that hides unnecessary details, allowing us to focus on high-level operations or ideas.
+ASCII (American Standard Code for Information Interchange) is a character encoding standard that assigns numbers to letters, digits, and symbols so computers can represent and process text.
 </details>
 
 ---
 
-## Q0b. Give an example of abstraction in programming.
+## Q2. What is the ASCII code for the letter 'A'? What about 'a'?
 
 <details markdown="1">
 <summary>Answer</summary>
-Examples: Using a function to perform a task without knowing its internal code; variables representing data; using a map or list data structure without knowing how it is implemented.
+'A' = 65, 'a' = 97 (in decimal)
 </details>
 
 ---
 
-## Q0c. Why are abstractions important in computer science?
+## Q3. How can black and white images be represented in binary?
 
 <details markdown="1">
 <summary>Answer</summary>
-Abstractions help manage complexity, make code easier to read and maintain, and allow programmers to build on top of existing solutions without needing to understand every detail.
+Each pixel is represented by a single bit: 0 for white, 1 for black (or vice versa). An image is a grid of these bits.
 </details>
 
 ---
 
-## Q1. Convert the following binary number to decimal:
-101101₂
-
+## Q4. What is a pixel?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-`101101₂ = 45₁₀`
-
+A pixel is the smallest unit of a digital image, representing a single point of color or shade.
 </details>
 
 ---
 
-## Q2. Convert the following decimal number to binary:
-27₁₀
-
+## Q5. How are color images typically represented in binary?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-`27₁₀ = 11011₂`
-
+Each pixel is represented by three values (for Red, Green, Blue channels), with each value stored as a group of bits (often 8 bits per channel, so 24 bits per pixel).
 </details>
 
 ---
 
-## Q3. What is the decimal value of the binary number `1110₂`?
+## Q6. What is the difference between a black & white image and a grayscale image in terms of binary representation?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-`1110₂ = 14₁₀`
-
+Black & white images use 1 bit per pixel (2 possible values), while grayscale images use more bits per pixel (e.g., 8 bits for 256 shades of gray).
 </details>
 
 ---
 
-## Q4. Write the binary representation of the decimal number `19`.
+## Q7. Why do computers use binary to represent images and text?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-`19₁₀ = 10011₂`
-
+Computers use binary because their hardware is based on two states (on/off), making it efficient to store and process all types of data, including images and text, as sequences of 0s and 1s.
 </details>
 
 ---
 
-## Q5. (Short answer) Why is binary used in computers? (1–2 sentences)
+## Q8. (Short answer) Give an example of a binary sequence and what text or image data it could represent.
 
 <details markdown="1">
 <summary>Sample Answer</summary>
-
-Computers use binary because digital circuits have two stable states (on/off, 1/0), making it reliable and easy to represent data and instructions
+The binary sequence 01000001 represents the letter 'A' in ASCII. The sequence 11110000 could represent a row of 8 pixels in a black and white image (first 4 black, last 4 white).
+</details>
+ 
 
 ---
 
-## Q6. What is overflow in binary addition? Give an example.
+## Q9. What is a bitmap?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-Overflow occurs when the result of a binary addition is too large to fit in the available number of bits. For example, adding 1111₂ (15 in decimal) + 1₂ (1 in decimal) in 4 bits gives 10000₂, but only the last 4 bits (0000) are kept, so the result is 0 and the overflow is lost.
-
+A bitmap is a way of representing an image as a grid of pixels, where each pixel's value is stored in binary. For black and white images, each pixel is typically 1 bit.
 </details>
 
 ---
 
-## Q7. What happens when a number is too large to be stored in 8 bits?
+## Q10. How does increasing the number of bits per pixel affect an image?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-The value wraps around and only the least significant 8 bits are kept. For example, 255 + 1 = 256, but in 8 bits, 256 is 100000000₂, so only 00000000₂ (0) is stored and the overflow is lost.
-
+Increasing the number of bits per pixel allows more colors or shades to be represented, resulting in higher image quality and detail.
 </details>
 
 ---
 
-## Q8. What is rounding error? Give an example with binary fractions.
+## Q11. What does RGB stand for, and how is it used in digital images?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-Rounding error happens when a number cannot be exactly represented in binary, so it is rounded to the nearest value. For example, 0.1 in decimal cannot be exactly written in binary, so computers store an approximation, which can lead to small errors in calculations.
-
+RGB stands for Red, Green, Blue. In digital images, each pixel's color is created by combining different intensities of these three colors, usually with 8 bits per channel.
 </details>
 
 ---
 
-## Q9. Why do computers sometimes give imprecise answers when adding decimals like 0.1 + 0.2?
+## Q12. Why might a RAW image file be much larger than a JPEG of the same photo?
 
 <details markdown="1">
 <summary>Answer</summary>
-
-Because numbers like 0.1 and 0.2 cannot be exactly represented in binary, their stored values are approximations. When added, the result may not be exactly 0.3 due to these small rounding errors.
-
-</details>
-
-
----
-
-## Q10. What is lossless compression? Give an example.
-
-<details markdown="1">
-<summary>Answer</summary>
-Lossless compression reduces file size without losing any information. The original data can be perfectly reconstructed. Example: ZIP files, PNG images.
+RAW files store all the data captured by the camera sensor with little or no compression, while JPEG uses lossy compression to reduce file size by removing some data.
 </details>
 
 ---
 
-## Q11. What is lossy compression? Give an example.
+## Q13. (Short answer) Give an example of how binary encoding is used to represent a simple black and white image.
 
 <details markdown="1">
-<summary>Answer</summary>
-Lossy compression reduces file size by removing some data, resulting in a loss of quality. The original data cannot be perfectly restored. Example: JPEG images, MP3 audio.
+<summary>Sample Answer</summary>
+A 4x4 black and white image could be represented as:
+1100
+1010
+0110
+0001
+where 1 = black, 0 = white.
 </details>
 
----
-
-## Q12. What is the main trade-off between lossy and lossless compression?
-
-<details markdown="1">
-<summary>Answer</summary>
-Lossy compression achieves smaller file sizes but loses some information, while lossless keeps all information but may not compress as much.
-</details>

@@ -18,12 +18,12 @@ Assessments are locked
 
 ## Pacing
 Aim for three lessons a week
-| Week | Start Date  | Month      | Unit & Lesson(s) Covered           | Notes/Holidays                |
+| Week | Start Date  | Month      | Unit & Lesson(s) pace to aim for   | Notes/Holidays                |
 |------|-------------|------------|------------------------------------|-------------------------------|
 | 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2                             |
 | 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed                             |
-| 3    | Sep 15      | September  | Unit 1: Lessons 7–9                |         Completing lesson 4 (Binary), and  Lesson 5 (overflow and rounding)                       |
-| 4    | Sep 22      | September  | Unit 1: Lessons 10–13              |                               |
+| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered                     |
+| 4    | Sep 22      | September  | Unit 1: Lessons 11–13              |                               |
 | 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Lessons 9,10,11,12                             |
 | 6    | Oct 6       | October    | Unit 2: Lessons 4–6                | Lesson 13 - assessment then unit 2 lessons 1-3                              |
 | 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |                               |
