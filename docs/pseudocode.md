@@ -56,7 +56,7 @@ Below are the main constructs **side-by-side with Python**.
 
 | AP CSP Pseudocode                                                                | Python Equivalent                                                    |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| `<br>IF (condition)<br>{<br>   <block><br>}<br>ELSE<br>{<br>   <block><br>}<br>` | `python<br>if condition:<br>    # block<br>else:<br>    # block<br>` |
+| `<br/>IF (condition)<br/>{<br>   <block><br>}<br>ELSE<br>{<br>   <block><br>}<br>` | `python<br>if condition:<br>    # block<br>else:<br>    # block<br>` |
 
 ---
 
@@ -64,7 +64,7 @@ Below are the main constructs **side-by-side with Python**.
 
 | AP CSP Pseudocode                                          | Python Equivalent                                   |
 | ---------------------------------------------------------- | --------------------------------------------------- |
-| `<br>REPEAT n TIMES\n\n{\n\n   <block><br>}<br>`           | `python<br>for i in range(n):<br>    # block<br>`   |
+| `<br>REPEAT n TIMES<br>{<br>   <block><br>}<br>`           | `python<br>for i in range(n):<br>    # block<br>`   |
 | `<br>REPEAT UNTIL (condition)<br>{<br>   <block><br>}<br>` | `python<br>while not condition:<br>    # block<br>` |
 | `<br>FOR EACH item IN list<br>{<br>   <block><br>}<br>`    | `python<br>for item in list:<br>    # block<br>`    |
 
