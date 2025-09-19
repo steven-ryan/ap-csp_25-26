@@ -13,151 +13,108 @@ The AP Exam provides the pseudocode reference sheet.
 Below are the main constructs **side-by-side with Python**.
 
 ---
- # AP CSP Pseudocode vs Python Reference
-
-The AP Exam provides the pseudocode reference sheet.
-Below are the main constructs **side-by-side with Python**.
-
----
 
 ## Variables and Assignment
 
-| AP CSP Pseudocode                       | Python Equivalent                       |
-| --------------------------------------- | --------------------------------------- |
-| <pre><code>a ← 5</code></pre>           | <pre><code>a = 5</code></pre>           |
-| <pre><code>name ← "AP CSP"</code></pre> | <pre><code>name = "AP CSP"</code></pre> |
+| AP CSP Pseudocode | Python Equivalent |
+| ----------------- | ----------------- |
+| `a ← 5`           | `a = 5`           |
+| `name ← "AP CSP"` | `name = "AP CSP"` |
 
 ---
 
 ## Math Operators
 
-| AP CSP Pseudocode                      | Python Equivalent                      |
-| -------------------------------------- | -------------------------------------- |
-| <pre><code>x ← 7 MOD 3</code></pre>    | <pre><code>x = 7 % 3</code></pre>      |
-| <pre><code>+ , - , \* , /</code></pre> | <pre><code>+ , - , \* , /</code></pre> |
+| AP CSP Pseudocode | Python Equivalent |
+| ----------------- | ----------------- |
+| `x ← 7 MOD 3`     | `x = 7 % 3`       |
+| `+ , - , * , /`   | `+ , - , * , /`   |
 
 ---
 
 ## Logical Operators
 
-| AP CSP Pseudocode           | Python Equivalent           |
-| --------------------------- | --------------------------- |
-| <pre><code>NOT</code></pre> | <pre><code>not</code></pre> |
-| <pre><code>AND</code></pre> | <pre><code>and</code></pre> |
-| <pre><code>OR</code></pre>  | <pre><code>or</code></pre>  |
+| AP CSP Pseudocode | Python Equivalent |
+| ----------------- | ----------------- |
+| `NOT`             | `not`             |
+| `AND`             | `and`             |
+| `OR`              | `or`              |
 
 ---
 
 ## Relational Operators
 
-| AP CSP Pseudocode                     | Python Equivalent                       |
-| ------------------------------------- | --------------------------------------- |
-| <pre><code>=</code></pre>             | <pre><code>==</code></pre>              |
-| <pre><code>≠</code></pre>             | <pre><code>!=</code></pre>              |
-| <pre><code>< , > , ≤ , ≥</code></pre> | <pre><code>< , > , <= , >=</code></pre> |
+| AP CSP Pseudocode | Python Equivalent |
+| ----------------- | ----------------- |
+| `=`               | `==`              |
+| `≠`               | `!=`              |
+| `< , > , ≤ , ≥`   | `< , > , <= , >=` |
 
 ---
 
 ## Selection (Conditionals)
 
-| AP CSP Pseudocode         | Python Equivalent |
-| ------------------------- | ----------------- |
-| <pre><code>IF (condition) |                   |
-| {                         |                   |
-
-   <block>  
-}  
-ELSE  
-{  
-   <block>  
-}</code></pre> | <pre><code>if condition:  
-    # block  
-else:  
-    # block</code></pre> |
+| AP CSP Pseudocode                                                                | Python Equivalent                                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| `<br>IF (condition)<br>{<br>   <block><br>}<br>ELSE<br>{<br>   <block><br>}<br>` | `python<br>if condition:<br>    # block<br>else:<br>    # block<br>` |
 
 ---
 
 ## Repetition
 
-| AP CSP Pseudocode         | Python Equivalent |
-| ------------------------- | ----------------- |
-| <pre><code>REPEAT n TIMES |                   |
-| {                         |                   |
-
-   <block>  
-}</code></pre> | <pre><code>for i in range(n):  
-    # block</code></pre> |
-| <pre><code>REPEAT UNTIL (condition)  
-{  
-   <block>  
-}</code></pre> | <pre><code>while not condition:  
-    # block</code></pre> |
-| <pre><code>FOR EACH item IN list  
-{  
-   <block>  
-}</code></pre> | <pre><code>for item in list:  
-    # block</code></pre> |
+| AP CSP Pseudocode                                          | Python Equivalent                                   |
+| ---------------------------------------------------------- | --------------------------------------------------- |
+| `<br>REPEAT n TIMES\n\n{\n\n   <block><br>}<br>`           | `python<br>for i in range(n):<br>    # block<br>`   |
+| `<br>REPEAT UNTIL (condition)<br>{<br>   <block><br>}<br>` | `python<br>while not condition:<br>    # block<br>` |
+| `<br>FOR EACH item IN list<br>{<br>   <block><br>}<br>`    | `python<br>for item in list:<br>    # block<br>`    |
 
 ---
 
 ## Procedures
 
-| AP CSP Pseudocode              | Python Equivalent         |
-| ------------------------------ | ------------------------- |
-| <pre><code>PROCEDURE add(a, b) |                           |
-| {                              |                           |
-| RETURN a + b                   |                           |
-| }</code></pre>                 | <pre><code>def add(a, b): |
-
-```
-return a + b</code></pre> |
-```
+| AP CSP Pseudocode                                          | Python Equivalent                                  |
+| ---------------------------------------------------------- | -------------------------------------------------- |
+| `<br>PROCEDURE add(a, b)<br>{<br>   RETURN a + b<br>}<br>` | `python<br>def add(a, b):<br>    return a + b<br>` |
 
 ---
 
 ## Strings
 
-| AP CSP Pseudocode                      | Python Equivalent                      |
-| -------------------------------------- | -------------------------------------- |
-| <pre><code>word ← "HELLO"</code></pre> | <pre><code>word = "HELLO"</code></pre> |
-| <pre><code>letter ← word\[1]           |                                        |
-| (1-based)</code></pre>                 | <pre><code>letter = word\[0]           |
-| (0-based)</code></pre>                 |                                        |
-| <pre><code>LENGTH(word)</code></pre>   | <pre><code>len(word)</code></pre>      |
-| <pre><code>CONCAT(a, b)</code></pre>   | <pre><code>a + b</code></pre>          |
+| AP CSP Pseudocode              | Python Equivalent              |
+| ------------------------------ | ------------------------------ |
+| `word ← "HELLO"`               | `word = "HELLO"`               |
+| `letter ← word[1]` *(1-based)* | `letter = word[0]` *(0-based)* |
+| `LENGTH(word)`                 | `len(word)`                    |
+| `CONCAT(a, b)`                 | `a + b`                        |
 
 ---
 
 ## Lists
 
-| AP CSP Pseudocode                              | Python Equivalent                              |
-| ---------------------------------------------- | ---------------------------------------------- |
-| <pre><code>myList ← \[10, 20, 30]</code></pre> | <pre><code>myList = \[10, 20, 30]</code></pre> |
-| <pre><code>APPEND(myList, 40)</code></pre>     | <pre><code>myList.append(40)</code></pre>      |
-| <pre><code>INSERT(myList, 2, 99)</code></pre>  | <pre><code>myList.insert(1, 99)                |
-
-# CSP index 2 = Python index 1</code></pre> |
-
-\| <pre><code>REMOVE(myList, 2)</code></pre> | <pre><code>myList.pop(1)</code></pre> |
-\| <pre><code>LENGTH(myList)</code></pre> | <pre><code>len(myList)</code></pre> |
+| AP CSP Pseudocode       | Python Equivalent                                       |
+| ----------------------- | ------------------------------------------------------- |
+| `myList ← [10, 20, 30]` | `myList = [10, 20, 30]`                                 |
+| `APPEND(myList, 40)`    | `myList.append(40)`                                     |
+| `INSERT(myList, 2, 99)` | `myList.insert(1, 99)` *(Python index 1 = CSP index 2)* |
+| `REMOVE(myList, 2)`     | `myList.pop(1)`                                         |
+| `LENGTH(myList)`        | `len(myList)`                                           |
 
 ---
 
 ## Random
 
-| AP CSP Pseudocode                         | Python Equivalent        |
-| ----------------------------------------- | ------------------------ |
-| <pre><code>x ← RANDOM(1, 10)</code></pre> | <pre><code>import random |
-| x = random.randint(1, 10)</code></pre>    |                          |
+| AP CSP Pseudocode   | Python Equivalent                                          |
+| ------------------- | ---------------------------------------------------------- |
+| `x ← RANDOM(1, 10)` | `python<br>import random<br>x = random.randint(1, 10)<br>` |
 
 ---
 
 ## Input & Output
 
-| AP CSP Pseudocode                   | Python Equivalent                   |
-| ----------------------------------- | ----------------------------------- |
-| <pre><code>a ← INPUT()</code></pre> | <pre><code>a = input()</code></pre> |
-| <pre><code>DISPLAY(a)</code></pre>  | <pre><code>print(a)</code></pre>    |
+| AP CSP Pseudocode | Python Equivalent |
+| ----------------- | ----------------- |
+| `a ← INPUT()`     | `a = input()`     |
+| `DISPLAY(a)`      | `print(a)`        |
 
 ---
 
@@ -165,8 +122,8 @@ return a + b</code></pre> |
 
 * **Indexing**: AP CSP lists/strings start at **1**, Python starts at **0**.
 * **Numbers**: AP CSP pseudocode has **no overflow or size limits**. Python supports arbitrarily large integers.
-* **Syntax**: AP CSP allows `{ }` or indentation — both accepted in exams. Python requires indentation.
-* **Keywords**: On the AP exam, **students must use pseudocode keywords**, not Python.
+* **Syntax**: AP CSP uses `{ }` or indentation — both accepted in exams. Python strictly uses indentation.
+* **Keywords**: On the AP exam, **students must use the given pseudocode keywords**, not Python.
 
 ---
 
