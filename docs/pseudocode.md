@@ -56,7 +56,7 @@ Below are the main constructs **side-by-side with Python**.
 
 | AP CSP Pseudocode                                                                | Python Equivalent                                                    |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| `<br/>IF (condition)<br/>{<br>   <block><br>}<br>ELSE<br>{<br>   <block><br>}<br>` | `python<br>if condition:<br>    # block<br>else:<br>    # block<br>` |
+| `<br />IF (condition)<br />{<br>   <block><br>}<br>ELSE<br>{<br>   <block><br>}<br>` | `python<br>if condition:<br>    # block<br>else:<br>    # block<br>` |
 
 ---
 
