@@ -87,27 +87,29 @@ Administration
  
 
 ## Code.org mapping to course
- | Code.org Unit | Title | Main College Board Big Ideas Covered | Notes |
+
+| Code.org Unit | Title | Main College Board Big Ideas Covered | Notes |
 |---------------|-------|---------------------------------------|-------|
-| **Unit 1** | Digital Information | **Big Idea 2: Data** (representation, compression, abstraction) | Covers binary, images, text, numbers, compression. Strong data foundations. |
-| **Unit 2** | The Internet | **Big Idea 4: Computer Systems & Networks** | Internet protocols, DNS, TCP/IP, fault tolerance, cybersecurity basics. |
-| **Unit 3** | Intro to App Design | **Big Idea 1: Creative Development** (design, collaboration), **Big Idea 3: Algorithms & Programming** (intro to programming) | Students start programming in App Lab, focus on design cycle. |
-| **Unit 4** | Variables, Conditionals, and Functions | **Big Idea 3: Algorithms & Programming** | Procedural abstraction, building blocks of programs, practice with pseudocode-style thinking. |
-| **Unit 5** | Lists, Loops, and Traversals | **Big Idea 3: Algorithms & Programming** | Advanced control structures, traversals, algorithm development, efficiency. |
-| **Unit 6** | Algorithms | **Big Idea 3: Algorithms & Programming** | Searching, sorting, efficiency, problem-solving strategies. |
-| **Unit 7** | Parameters, Return, and Libraries | **Big Idea 3: Algorithms & Programming** | Procedural abstraction, libraries, modular code — connects to Create Task rubric. |
-| **Unit 8** | Create PT | **Big Idea 1: Creative Development** | Students complete their official Create Performance Task. Heavy focus on documentation & reflection. |
-| **Unit 9** | Data | **Big Idea 2: Data**, **Big Idea 5: Impact of Computing** | Data analysis, visualization, big data, privacy, ethics. |
-| **Unit 10** | Cybersecurity & Global Impacts | **Big Idea 4: Computer Systems & Networks**, **Big Idea 5: Impact of Computing** | Cybersecurity issues, global effects of computing innovations. |
+| Unit 1 | Digital Information | Big Idea 2: Data (representation, compression, abstraction) | Covers binary, images, text, numbers, compression. Strong data foundations. |
+| Unit 2 | The Internet | Big Idea 4: Computer Systems & Networks | Internet protocols, DNS, TCP/IP, fault tolerance, cybersecurity basics. |
+| Unit 3 | Intro to App Design | Big Idea 1: Creative Development (design, collaboration), Big Idea 3: Algorithms & Programming (intro to programming) | Students start programming in App Lab, focus on design cycle. |
+| Unit 4 | Variables, Conditionals, and Functions | Big Idea 3: Algorithms & Programming | Procedural abstraction, building blocks of programs, practice with pseudocode-style thinking. |
+| Unit 5 | Lists, Loops, and Traversals | Big Idea 3: Algorithms & Programming | Advanced control structures, traversals, algorithm development, efficiency. |
+| Unit 6 | Algorithms | Big Idea 3: Algorithms & Programming | Searching, sorting, efficiency, problem-solving strategies. |
+| Unit 7 | Parameters, Return, and Libraries | Big Idea 3: Algorithms & Programming | Procedural abstraction, libraries, modular code; connects to Create Task rubric. |
+| Unit 8 | Create PT | Big Idea 1: Creative Development | Students complete their official Create Performance Task. Heavy focus on documentation & reflection. |
+| Unit 9 | Data | Big Idea 2: Data, Big Idea 5: Impact of Computing | Data analysis, visualization, big data, privacy, ethics. |
+| Unit 10 | Cybersecurity & Global Impacts | Big Idea 4: Computer Systems & Networks, Big Idea 5: Impact of Computing | Cybersecurity issues, global effects of computing innovations. |
 
  
 ## Code.org mapping to Barrons
- | College Board Big Idea | Code.org Unit(s) | Barron’s 2026 Chapter(s) | Notes for Teaching |
+
+| College Board Big Idea | Code.org Unit(s) | Barron’s 2026 Chapter(s) | Notes for Teaching |
 |-------------------------|------------------|---------------------------|--------------------|
-| **Big Idea 1: Creative Development** | Unit 3: Intro to App Design<br>Unit 8: Create PT | Ch. 1 (Create Performance Task)<br>Ch. 2 (Creative Development) | Start with brainstorming + design cycle. Revisit in Create PT. Emphasize iterative development, documentation, and collaboration. |
-| **Big Idea 2: Data** | Unit 1: Digital Information<br>Unit 9: Data | Ch. 3 (Data) | Cover binary numbers, text, images, sound, compression. Later, extend into data visualization, big data, and privacy. |
-| **Big Idea 3: Algorithms & Programming** | Unit 3: Intro to App Design<br>Unit 4: Variables, Conditionals, Functions<br>Unit 5: Lists, Loops, Traversals<br>Unit 6: Algorithms<br>Unit 7: Parameters, Return, Libraries | Ch. 4 (Algorithms)<br>Ch. 5 (Programming & Abstraction) | Most of the coding practice. Reinforce pseudocode, sequencing, selection, iteration, and procedural abstraction. Tie back to AP pseudocode reference sheet. |
-| **Big Idea 4: Computer Systems & Networks** | Unit 2: The Internet<br>Unit 10: Cybersecurity & Global Impacts | Ch. 6 (Computer Systems & Networks) | Internet structure, IP, DNS, TCP, fault tolerance, cybersecurity. Hands-on activities: simulate packet transfers, discuss cyberattacks. |
-| **Big Idea 5: Impact of Computing** | Unit 9: Data<br>Unit 10: Cybersecurity & Global Impacts | Ch. 7 (Impact of Computing) | Explore ethics, privacy, intellectual property, innovation, and global issues. Class debates and case studies work well here. |
-| **Practice & Exam Prep** | Woven throughout Code.org, especially after Unit 8 | Ch. 8+ (Practice Tests & Strategies) | Simulate exam conditions: multiple-choice practice, Create Task rubric review, timed exercises. |
+| Big Idea 1: Creative Development | Unit 3: Intro to App Design; Unit 8: Create PT | Ch. 1 (Create Performance Task); Ch. 2 (Creative Development) | Start with brainstorming and design cycle; revisit in Create PT; emphasize iterative development, documentation, collaboration. |
+| Big Idea 2: Data | Unit 1: Digital Information; Unit 9: Data | Ch. 3 (Data) | Cover binary numbers, text, images, sound, compression; extend into data visualization, big data, privacy. |
+| Big Idea 3: Algorithms & Programming | Unit 3: Intro to App Design; Unit 4: Variables, Conditionals, Functions; Unit 5: Lists, Loops, Traversals; Unit 6: Algorithms; Unit 7: Parameters, Return, Libraries | Ch. 4 (Algorithms); Ch. 5 (Programming & Abstraction) | Most coding practice; reinforce pseudocode, sequencing, selection, iteration, procedural abstraction; tie to AP pseudocode reference sheet. |
+| Big Idea 4: Computer Systems & Networks | Unit 2: The Internet; Unit 10: Cybersecurity & Global Impacts | Ch. 6 (Computer Systems & Networks) | Internet structure, IP, DNS, TCP, fault tolerance, cybersecurity; simulate packet transfers; discuss cyberattacks. |
+| Big Idea 5: Impact of Computing | Unit 9: Data; Unit 10: Cybersecurity & Global Impacts | Ch. 7 (Impact of Computing) | Explore ethics, privacy, intellectual property, innovation, global issues; debates and case studies. |
+| Practice & Exam Prep | Throughout Code.org, especially after Unit 8 | Ch. 8+ (Practice Tests & Strategies) | Simulate exam conditions: multiple-choice practice, Create Task rubric review, timed exercises. |
  
