@@ -113,3 +113,5 @@ Administration
 | Big Idea 5: Impact of Computing | Unit 9: Data; Unit 10: Cybersecurity & Global Impacts | Ch. 7 (Impact of Computing) | Explore ethics, privacy, intellectual property, innovation, global issues; debates and case studies. |
 | Practice & Exam Prep | Throughout Code.org, especially after Unit 8 | Ch. 8+ (Practice Tests & Strategies) | Simulate exam conditions: multiple-choice practice, Create Task rubric review, timed exercises. |
  
+
+ 
