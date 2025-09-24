@@ -52,3 +52,30 @@ Lossy compression
 - Test these
 - go through each unit and get unit vocab e.g. https://studio.code.org/courses/csp-2025/units/1/vocab
 
+
+
+
+## Example markdown
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+
+
+```mermaid
+pie
+"Surface area of northern hemisphere" : 50
+"surface area of southern hemisphere" : 50
+```
