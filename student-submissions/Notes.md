@@ -9,15 +9,9 @@ A[input] -->B[store]
 ```
 
 ## Binary 
-- maxiumum states `2^n` 
-$$
- {n^2} 
-$$
+- maxiumum states `2^n` ${n^2}$
 
-- highest value it can represent: `2^n - 1`
-$$
- {{n^2}-1} 
-$$
+- highest value it can represent: `2^n - 1` ${{n^2}-1}$
 
 ## Program ideas
 - [ ] Random name list selector
