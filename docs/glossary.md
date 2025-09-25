@@ -1,9 +1,11 @@
 ---
+layout: default
 title: Glossary and acronyms
 ---
 {% include topnav.md %}
 
 # Glossary and acronyms
+ 
 
 ## AP CSP Acronym Key
 
@@ -57,3 +59,59 @@ Administration
 - Join code: Code to join an AP CSP class section in My AP
 - Ordering window: Fall period when coordinators order exams
 - Prometric: UK test-center provider posting join codes and handling payment/scheduling
+
+## Mapping to Barron and course
+ 
+| Big Idea                                   | Description                                                                 | Barron’s Chapter(s) | Notes for Teaching                                                                 |
+|--------------------------------------------|-----------------------------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
+| Big Idea 1: Creative Development           | Program design, collaboration, documentation, iterative development, Create Task | Ch. 1–2             | Introduce Create Task early; students brainstorm project ideas                      |
+| Big Idea 2: Data                           | Data representation (binary, images, text, sound), compression, visualization, abstraction | Ch. 3               | Hands-on: convert text/images/sound into binary, explore data sets                  |
+| Big Idea 3: Algorithms & Programming (Part 1) | Sequencing, selection, iteration, algorithms, problem solving               | Ch. 4               | Use pseudocode + Python to illustrate algorithms                                   |
+| Big Idea 3: Algorithms & Programming (Part 2) | Procedures, abstraction, efficiency, debugging, testing                     | Ch. 5               | Assign function-writing practice; connect to AP pseudocode requirements            |
+| Big Idea 4: Computer Systems & Networks    | Internet structure, IP, TCP, DNS, cybersecurity, redundancy, fault tolerance | Ch. 6               | Simulate internet packet transfer; discuss cybersecurity scenarios                  |
+| Big Idea 5: Impact of Computing            | Ethics, privacy, intellectual property, global impact, innovation, society   | Ch. 7               | Debates/discussion: ethical computing, AI, and global impact                       |
+| Practice & Exam Prep                       | Practice exams, strategies, multiple-choice review, test-taking tips         | Ch. 8+              | Simulate exam conditions with timed practice questions                             |
+
+ 
+## Details mapping to course
+
+| Big Idea | Description | Key Practices | Barron’s 2026 Chapter(s) | Notes for Teaching |
+|----------|-------------|---------------|-------------------------|--------------------|
+| Big Idea 1: Creative Development | Program design, collaboration, documentation, iterative development, Create Task | P1: Collaboration; P3: Abstraction; P5: Testing | Ch. 1–2 | Start Create Task brainstorming early; emphasize teamwork, documentation, reflection. |
+| Big Idea 2: Data | Data representation (binary, images, text, sound), compression, visualization, abstraction | P2: Abstraction; P4: Communication | Ch. 3 | Do hands-on binary conversions; lossless vs lossy compression; simple data analysis projects. |
+| Big Idea 3: Algorithms & Programming (Part 1) | Sequencing, selection, iteration, algorithms, problem solving | P2: Abstraction; P3: Algorithms; P5: Testing | Ch. 4 | Practice AP pseudocode; compare efficiency of algorithms (linear vs binary search). |
+| Big Idea 3: Algorithms & Programming (Part 2) | Procedures, abstraction, efficiency, debugging, testing | P3: Algorithms; P5: Testing; P6: Communication | Ch. 5 | Write reusable functions; explain to peers; connect to Create Task rubric. |
+| Big Idea 4: Computer Systems & Networks | Internet structure, IP, TCP, DNS, cybersecurity, redundancy, fault tolerance | P4: Communication; P6: Connecting Computing | Ch. 6 | Simulate internet (pass envelopes with IPs); discuss cybersecurity threats. |
+| Big Idea 5: Impact of Computing | Ethics, privacy, intellectual property, global impact, innovation, society | P1: Collaboration; P4: Communication; P6: Connecting Computing | Ch. 7 | Debates, case studies (AI bias, digital divide); reflection journals. |
+| Exam Prep & Review | Practice exams, strategies, multiple-choice review, test-taking tips | All Practices | Ch. 8+ | Simulate exam conditions; focus on time management and clear explanations. |
+ 
+
+## Code.org mapping to course
+
+| Code.org Unit | Title | Main College Board Big Ideas Covered | Notes |
+|---------------|-------|---------------------------------------|-------|
+| Unit 1 | Digital Information | Big Idea 2: Data (representation, compression, abstraction) | Covers binary, images, text, numbers, compression. Strong data foundations. |
+| Unit 2 | The Internet | Big Idea 4: Computer Systems & Networks | Internet protocols, DNS, TCP/IP, fault tolerance, cybersecurity basics. |
+| Unit 3 | Intro to App Design | Big Idea 1: Creative Development (design, collaboration), Big Idea 3: Algorithms & Programming (intro to programming) | Students start programming in App Lab, focus on design cycle. |
+| Unit 4 | Variables, Conditionals, and Functions | Big Idea 3: Algorithms & Programming | Procedural abstraction, building blocks of programs, practice with pseudocode-style thinking. |
+| Unit 5 | Lists, Loops, and Traversals | Big Idea 3: Algorithms & Programming | Advanced control structures, traversals, algorithm development, efficiency. |
+| Unit 6 | Algorithms | Big Idea 3: Algorithms & Programming | Searching, sorting, efficiency, problem-solving strategies. |
+| Unit 7 | Parameters, Return, and Libraries | Big Idea 3: Algorithms & Programming | Procedural abstraction, libraries, modular code; connects to Create Task rubric. |
+| Unit 8 | Create PT | Big Idea 1: Creative Development | Students complete their official Create Performance Task. Heavy focus on documentation & reflection. |
+| Unit 9 | Data | Big Idea 2: Data, Big Idea 5: Impact of Computing | Data analysis, visualization, big data, privacy, ethics. |
+| Unit 10 | Cybersecurity & Global Impacts | Big Idea 4: Computer Systems & Networks, Big Idea 5: Impact of Computing | Cybersecurity issues, global effects of computing innovations. |
+
+ 
+## Code.org mapping to Barrons
+
+| College Board Big Idea | Code.org Unit(s) | Barron’s 2026 Chapter(s) | Notes for Teaching |
+|-------------------------|------------------|---------------------------|--------------------|
+| Big Idea 1: Creative Development | Unit 3: Intro to App Design; Unit 8: Create PT | Ch. 1 (Create Performance Task); Ch. 2 (Creative Development) | Start with brainstorming and design cycle; revisit in Create PT; emphasize iterative development, documentation, collaboration. |
+| Big Idea 2: Data | Unit 1: Digital Information; Unit 9: Data | Ch. 3 (Data) | Cover binary numbers, text, images, sound, compression; extend into data visualization, big data, privacy. |
+| Big Idea 3: Algorithms & Programming | Unit 3: Intro to App Design; Unit 4: Variables, Conditionals, Functions; Unit 5: Lists, Loops, Traversals; Unit 6: Algorithms; Unit 7: Parameters, Return, Libraries | Ch. 4 (Algorithms); Ch. 5 (Programming & Abstraction) | Most coding practice; reinforce pseudocode, sequencing, selection, iteration, procedural abstraction; tie to AP pseudocode reference sheet. |
+| Big Idea 4: Computer Systems & Networks | Unit 2: The Internet; Unit 10: Cybersecurity & Global Impacts | Ch. 6 (Computer Systems & Networks) | Internet structure, IP, DNS, TCP, fault tolerance, cybersecurity; simulate packet transfers; discuss cyberattacks. |
+| Big Idea 5: Impact of Computing | Unit 9: Data; Unit 10: Cybersecurity & Global Impacts | Ch. 7 (Impact of Computing) | Explore ethics, privacy, intellectual property, innovation, global issues; debates and case studies. |
+| Practice & Exam Prep | Throughout Code.org, especially after Unit 8 | Ch. 8+ (Practice Tests & Strategies) | Simulate exam conditions: multiple-choice practice, Create Task rubric review, timed exercises. |
+ 
+
+ 

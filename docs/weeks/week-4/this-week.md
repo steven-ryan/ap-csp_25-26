@@ -5,30 +5,55 @@ title: Week 4 — Plan
 
 # Week 4: This Week in AP CSP
 
-Before class (10–20 min)
-- Barron’s: Procedures/Parameters; Abstraction & Managing Complexity
-- Optional: AP Daily — AP Daily clips on variables, conditionals, loops, procedures, lists
+Imcoplete barrons pages and codeorg links 
 
-In class (60–90 min)
-- MakeCode CSP: Unit 1 — Functions/Abstraction
-  https://microsoft.github.io/makecode-csp
-- Focus: Procedures design; abstraction and reuse
-- Do: complete all activities and one extension; save/share the project link.
+ 
+# Preperation:
+- Print - https://drive.google.com/file/d/1RshIPOF9Sm9AYPLehNouZus4rkRDWX-7/view
+- Get speaker ready
+- Photocopy pages 169-183
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): AAP‑3.* (procedures, parameters, abstraction)
-- Reading (20–30 min): Barron’s — Procedures/Parameters; Abstraction & Managing Complexity
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
+# Thursday 
+## Lesson 11: Intellectual Property
+ - All below: https://studio.code.org/teacher_dashboard/sections/6109201/materials
 
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
 
-Due
-- Start of next class: ______ (insert date/time).
+- Lesson: https://studio.code.org/courses/csp-2025/units/1/lessons/11
+- Slides: https://docs.google.com/presentation/d/16pHsBIjXC_9T5nDtOlp8s46eN-Rto7NLWIfaYqLlWC4/template/preview
+- Article to read: - https://drive.google.com/file/d/1RshIPOF9Sm9AYPLehNouZus4rkRDWX-7/view
+- Videos to watch:
+    - https://www.youtube.com/watch?v=GPNWvU_IphU
+    - https://www.youtube.com/watch?v=ITASCSxnBqw
+    - https://www.youtube.com/watch?v=wC-m23T7cPM
 
-References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
-- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
-- Acronym key: {{ site.baseurl }}/glossary.html
+## Lesson 12: Project – Digital Information Dilemmas
+- All Below: https://studio.code.org/teacher_dashboard/sections/6109201/materials
+- Lesson: https://studio.code.org/courses/csp-2025/units/1/lessons/12
+- Slides: https://docs.google.com/presentation/d/1dBHtsZ-A4Fk1UnvaDZxwh7kPPW7jrESkFzRMIrIs9PA/template/preview
+- Bingo: https://studio.code.org/courses/csp-bingo-2023/units/1?section_id=6109201
+
+
+
+## Home work:
+- Do Chapter 3 - Big idea 2 Data quiz  - Odd questions
+Read/Watch
+
+
+- Unit 1: Digital Information is complete
+
+# Friday
+Unit 2 The Internet
+## Lesson 1: Welcome to the Internet:
+- All resources: https://studio.code.org/teacher_dashboard/sections/6109201/materials
+- Lesson: https://studio.code.org/courses/csp-2025/units/2/lessons/1
+- Slides: https://docs.google.com/presentation/d/1iCQiPJm2hnAIK36e59dUw-qeb3WRIcrQV5xj749-XG4/template/preview
+
+## Lesson 2: Building a network
+- Lesson: https://studio.code.org/courses/csp-2025/units/2/lessons/2
+- Slides: https://docs.google.com/presentation/d/1h0mvTsBtJWVVTsafQvtDKGPJ3FGOtUczcjOnwF-Utmg/template/preview
+- Node/vertex: https://csacademy.com/app/graph_editor/
+
+## Home work:
+- Do Chapter 3 - Big idea 2 Data quiz  - Even questions
+
+
