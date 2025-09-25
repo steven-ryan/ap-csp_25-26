@@ -1,5 +1,12 @@
+
+All computers: input-->store-->process-->output
+
+
+
 # Stuff to remember
 -  computing device is a physical artifact that can run a program. Some examples include computers, tablets, servers, routers, and smart sensors.
+- Computers use binary because their hardware is based on two states (on/off), making it efficient to store and process all types of data, including images and text, as sequences of 0s and 1s.
+
 
 - A single effect can be viewed as both beneficial and harmful by different people, or even by the same person.
 
@@ -12,6 +19,10 @@ A[input] -->B[store]
     D --> E(output)
 ```
 
+
+
+
+=======
 ## Binary 
 - maxiumum states `2^n` or  ${2^n}$
 
@@ -51,6 +62,23 @@ Lossy compression 🌔
 
 
 
+intellectual property 
+> any intangible creations of the mind, such as inventions, artistic works, designs, brand names, and symbols.
+
+creative commons 
+> a license that allows you to freely use materials created by others.
+
+ASCII (American Standard Code for Information Interchange) 
+>  a character encoding standard that assigns numbers to letters, digits, and symbols so computers can represent and process text.
+
+A pixel 
+> the smallest unit of a digital image, representing a single point of color or shade.
+
+bitmap 
+> a way of representing an image as a grid of pixels, where each pixel’s value is stored in binary. For black and white images, each pixel is typically 1 bit.
+
+RGB 
+> stands for Red, Green, Blue. In digital images, each pixel’s color is created by combining different intensities of these three colors, usually with 8 bits per channel.
 
 
 ## Revision
@@ -84,3 +112,4 @@ pie
 "Surface area of northern hemisphere" : 50
 "surface area of southern hemisphere" : 50
 ```
+
