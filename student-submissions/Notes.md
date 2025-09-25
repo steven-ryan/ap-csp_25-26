@@ -1,4 +1,4 @@
-All computers: input-->store-->processoutput
+All computers: input-->store-->process-->output
 
 
 Binary 2^n
