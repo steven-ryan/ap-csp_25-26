@@ -80,6 +80,21 @@ bitmap
 RGB 
 > stands for Red, Green, Blue. In digital images, each pixel’s color is created by combining different intensities of these three colors, usually with 8 bits per channel.
 
+Computing Device
+> electronic machines that perform tasks automatically by executing instructions, enabling them to process, store, and analyze data
+
+Computing System
+> a combination of physical components (hardware) and instructions (software) that work together to perform tasks, such as receiving, storing, processing, and transmitting information
+
+Computing Network
+> a collection of two or more interconnected computing devices that share data, resources, and services using physical or wireless connections and agreed-upon communication protocols
+
+Path
+> a string of characters that specifies the unique location of a file, directory, or other resource within a file system or a hierarchical structure
+
+Bandwidth
+> the maximum theoretical amount of data that can be transmitted over a communication channel within a given period of time, typically measured in bits per second (bps)
+
 
 ## Revision
 - Test these
