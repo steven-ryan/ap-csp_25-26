@@ -35,17 +35,20 @@ Imcoplete barrons pages and codeorg links
 
 
 ## Home work:
-- Do Chapter 3 - Big idea 2 Data quiz  - Odd questions
-Read/Watch
+- Do Chapter 3 - Big idea 2 Data quiz  - all questions
+- Review the quiz and add definitions to your notes
+- Add the definitions at the end of the slide deck for lesson 11 to your notes
 
+> [!NOTE]
+> Unit 1: Digital Information is complete
 
-- Unit 1: Digital Information is complete
 
 # Friday
 Unit 2 The Internet
 ## Lesson 1: Welcome to the Internet:
 - All resources: https://studio.code.org/teacher_dashboard/sections/6109201/materials
 - Lesson: https://studio.code.org/courses/csp-2025/units/2/lessons/1
+          https://studio.code.org/courses/csp-2025/units/2/lessons/1
 - Slides: https://docs.google.com/presentation/d/1iCQiPJm2hnAIK36e59dUw-qeb3WRIcrQV5xj749-XG4/template/preview
 
 ## Lesson 2: Building a network
@@ -54,6 +57,7 @@ Unit 2 The Internet
 - Node/vertex: https://csacademy.com/app/graph_editor/
 
 ## Home work:
-- Do Chapter 3 - Big idea 2 Data quiz  - Even questions
+- Read Barrons Chapter 5: Big Idea 4: Computer Systems and networks - pages 315- 321 - Make notes of key points, check existing notes for definitions in here
+
 
 
