@@ -64,6 +64,7 @@ print(f"Parallel total time: {end - start:.2f} seconds")
 
 ### Distributed computing
 - worker.py
+
 ```python
 import socket
 import time
@@ -87,9 +88,11 @@ result = do_work(task_name)
 conn.send(str(result).encode())
 conn.close()
 server.close()
+
 ```
 
 - master.py
+
 ```python
 import socket
 import time
@@ -124,7 +127,6 @@ t1.join()
 t2.join()
 end = time.time()
 print(f"Distributed total time: {end - start:.2f} seconds")
-
 ```
 
 
