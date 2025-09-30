@@ -58,6 +58,7 @@ Unit 2 The Internet
 
 ## Home work:
 - Read Barrons Chapter 5: Big Idea 4: Computer Systems and networks - pages 315- 321 - Make notes of key points, check existing notes for definitions in here
+- Do Creative development mini quiz in AP Classroom: 20 questions
 
 
 
