@@ -8,9 +8,10 @@ title: Week 6 — Plan
 
 
 
-## Unit 2: Lesson 5 - Packets
-## Unit 2: Lesson 6 - HTTP and DNS
-
+## Unit 2: Lesson 7 - intenet dilemmas
+## Unit 2: Lesson 8 - HTTP and DNS
+9
+10
 
 
 
