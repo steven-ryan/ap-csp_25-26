@@ -95,11 +95,31 @@ Path
 Bandwidth
 > the maximum theoretical amount of data that can be transmitted over a communication channel within a given period of time, typically measured in bits per second (bps)
 
+Transmission Control Protocol (TCP)
+> defines how computers sends data packets to each other. guides how data is subdivided into packets before transmission. 
+
+User Datagram Protocol (UDP)
+> allows computers to send messages without checking for missing packets to save time. this makes UPD less reliable but faster than TCP.
+
+Sequential Computing
+> problem is broken into discrete instructions then executed one by one by a single device having a single CPU
+
+Parallel Computing
+> problem is broken into discrete instructions then executed concurrently by using multiple CPUs. it is used for real world simulations and modeling.
+
+Distributed Computing
+> multiple devices used to run a program. Used to solve problems faster and allows problems to be solved that would be impossible for a single computer.
+
 
 ## Revision
 - Test these
 - go through each unit and get unit vocab e.g. https://studio.code.org/courses/csp-2025/units/1/vocab
 
+
+## Important info
+- ap class room task: 
+    - https://apstudents.collegeboard.org/ap/pdf/ap-digital-portfolio-terms-and-conditions.pdf
+    - https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course/faq/plagiarism-policy
 
 
 
