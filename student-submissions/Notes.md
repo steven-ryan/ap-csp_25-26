@@ -110,6 +110,17 @@ Parallel Computing
 Distributed Computing
 > multiple devices used to run a program. Used to solve problems faster and allows problems to be solved that would be impossible for a single computer.
 
+Router
+> a network device that connects two or more separate networks, such as a home network to the Internet, by forwarding data packets to their correct destinations.
+
+Switch
+> a switch is a networking device that connects multiple devices on a single local area network (LAN) and directs data traffic to the correct destination using a Media Access Control (MAC) address.
+
+Packet
+> a small, standardized unit of data used to transmit information across a network, like the internet.
+
+Firewall
+> a security system that acts as a barrier between a trusted network and an untrusted network.
 
 ## Revision
 - Test these
