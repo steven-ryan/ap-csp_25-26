@@ -60,8 +60,6 @@ Lossless compression  🌕
 Lossy compression 🌔
 > reduces file size by removing some data, resulting in a loss of quality. The original data cannot be perfectly restored.
 
-
-
 intellectual property 
 > any intangible creations of the mind, such as inventions, artistic works, designs, brand names, and symbols.
 
@@ -121,6 +119,16 @@ Packet
 
 Firewall
 > a security system that acts as a barrier between a trusted network and an untrusted network.
+
+Internet Protocol (IP)
+> the fundamental network protocol that governs how data is routed and addressed across the internet and other networks.
+
+Domain Name System (DNS)
+> acts as the internet's "phonebook," translating human-friendly domain names into machine-readable IP addresses.
+
+HyperText Transfer Protocl (HTTP)
+> the underlying set of rules, or protocol, for data transfer over the internet, enabling web browsers (clients) to request and retrieve resources like web pages, images, and videos from web servers.
+
 
 ## Revision
 - Test these
