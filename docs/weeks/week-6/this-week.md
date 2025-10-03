@@ -4,14 +4,25 @@ title: Week 6 — Plan
 {% include topnav.md %}
 
 # Week 6: This Week in AP CSP
-## Activity to review whta code.org would do somewhow
 
+# Thursday 
+## Preperation
 
+## Unit 2 - Lesson 7a: project internet dilemas
+- Lesson: 
+- Slides: 
 
-## Unit 2: Lesson 7 - intenet dilemmas
-## Unit 2: Lesson 8 - HTTP and DNS
-9
-10
+ 
+
+# Friday
+Unit 2 The Internet
+
+## Preperation
+
+## Unit 2 - Lesson 7b: project internet dilemas
+- Mini Quiz
+- Lesson: 
+- Slides: 
 
 
 

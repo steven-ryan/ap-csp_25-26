@@ -260,6 +260,32 @@ Unit 2 The Internet
 ## Preperation
 
 ## Unit 2 - Lesson 5: Packets
+- Do week 5 mini quiz
+
+- DNS demo: Wireshark
+```
+Here are some Windows-based nslookup examples you can use in Lesson 6 to demonstrate how DNS works:
+
+Basic DNS Lookup
+Shows the IP address(es) for www.google.com.
+
+Lookup a Specific Record Type (e.g., MX for mail)
+Displays the mail exchange servers for google.com.
+
+Query a Specific DNS Server
+Uses Google’s public DNS server (8.8.8.8) to resolve www.wikipedia.org.
+
+Reverse DNS Lookup (IP to domain)
+Shows the domain name associated with the IP address.
+
+View All Available Records
+Displays all DNS records for www.microsoft.com.
+
+You can run these commands in Command Prompt on Windows. Each example shows a different aspect of DNS resolution, similar to what the Internet Simulator demonstrates. Would you like a short worksheet or explanation for students to go with these examples?
+
+
+```
+
 - Lesson: https://studio.code.org/courses/csp-2025/units/2/lessons/5
 - Slides: https://docs.google.com/presentation/d/1wjUUTlrbDUvKiV-KDbVmhvUqFujlOkUrzQYJJRIYPCg/template/preview
 
@@ -268,9 +294,11 @@ Unit 2 The Internet
 ## Unit 2 - Lesson 6: HTTP and DNS
 - Lesson: https://studio.code.org/courses/csp-2025/units/2/lessons/6
 - Slides: https://docs.google.com/presentation/d/1fwfC6Wa4BNo0U-WVv6Hsr43y9YZfJMx0AVMUThwxTpg/template/preview
+- Internet layers: https://docs.google.com/document/d/1EB_y099r7Qwb3SxFhHK9wSaikoHixL85O4_YdsUBJSY/edit?tab=t.0
 
 ## Home work:
-- Should have previously read Barron’s: p333-341 - Do the quiz that follows 324-349 (Photo copy)
+- Should have previously read Barron’s: p333-341 - Do the quiz that follows 342-349 (Photo copied already)
+- Make sure definitions of router, redundency, fault tolerange is captured: https://docs.google.com/presentation/d/1lz4044iPKTDcAj-ZM7ovFw0w5wfPVm4jQ0ryMab7H1U/template/preview
 
 
 ===
