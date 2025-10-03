@@ -299,6 +299,7 @@ You can run these commands in Command Prompt on Windows. Each example shows a di
 ## Home work:
 - Should have previously read Barron’s: p333-341 - Do the quiz that follows 342-349 (Photo copied already)
 - Make sure definitions of router, redundency, fault tolerange is captured: https://docs.google.com/presentation/d/1lz4044iPKTDcAj-ZM7ovFw0w5wfPVm4jQ0ryMab7H1U/template/preview
+- Do the AP classroom exam
 
 
 ===
