@@ -24,8 +24,8 @@ Aim for three lessons a week
 | 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed                             |
 | 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered                     |
 | 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2                           |
-| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Unit 2 Lessons  3-5                           |
-| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |   Unit 2 Lessons  6-8         |
+| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Unit 2 Lessons  3-6                           |
+| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |   Unit 2 Lessons  7, 8 locked         |
 | 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |                               |
 | 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |                               |
 | 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |                               |
