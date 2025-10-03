@@ -11,6 +11,32 @@ All computers: input-->store-->process-->output
 - A single effect can be viewed as both beneficial and harmful by different people, or even by the same person.
 
 
+
+
+
+
+
+
+- **Algorithm:** An algorithm is a finite set of instructions that accomplish a specific task. Every algorithm can be constructed using combinations of sequencing, selection, and iteration.
+- **Arguments:** The values of the parameters when a procedure is called.
+- **Collection type:** Aggregates elements in a single structure. Some examples include: databases, hash tables, dictionaries, sets, or any other type that aggregates elements in a single structure.
+- **Data stored in a list:** Input into the list can be through an initialization or through some computation on other variables or list elements.
+- **Input:** Program input is data that are sent to a computer for processing by a program. Input can come in a variety of forms, such as tactile (through touch), audible, visual, or text. An event is associated with an action and supplies input data to a program.
+- **Iteration:** Iteration is a repetitive portion of an algorithm. Iteration repeats until a given condition is met or for a specified number of times. The use of recursion is a form of iteration.
+- **List:** A list is an ordered sequence of elements. The use of lists allows multiple related items to be represented using a single variable. Lists are referred to by different terms, such as arrays or arraylists, depending on the programming language.
+- **List being used:** Using a list means the program is creating new data from existing data or accessing multiple elements in the list.
+- **Output:** Program output is any data that are sent from a program to a device. Program output can come in a variety of forms, such as tactile, audible, visual, movement, or text.
+- **Parameter:** A parameter is an input variable of a procedure. Explicit parameters are defined in the procedure header. Implicit parameters are those that are assigned in anticipation of a call to the procedure. For example, an implicit parameter can be set through interaction with a graphical user interface.
+- **Procedure:** A procedure is a named group of programming instructions that may have parameters and return values. Procedures are referred to by different names, such as method, function, or constructor, depending on the programming language.
+- **Program code segment:** A code segment refers to a collection of program statements that are part of a program. For text-based, the collection of program statements should be continuous and within the same procedure. For block-based, the collection of program statements should be contained in the same starter block or what is referred to as a “Hat” block.
+- **Program functionality:** The behavior of a program during execution, often described by how a user interacts with it.
+- **Purpose:** The problem being solved or creative interest being pursued through the program.
+- **Selection:** Selection determines which parts of an algorithm are executed based on a condition being true or false. The use of try/exception statements is a form of selection statements.
+- **Sequencing:** The application of each step of an algorithm in the order in which the code statements are given.
+- **Student-developed procedure / algorithm:** Program code that is student developed has been written (individually or collaboratively) by the student who submitted the response. Calls to existing program code or libraries can be included but are not considered student developed. Event handlers are built-in abstractions in some languages and will therefore not be considered student-developed. In some block-based programming languages, event handlers begin with “when”.
+
+
+
 ```mermaid
 graph LR
 A[input] -->B[store]
@@ -133,7 +159,73 @@ HyperText Transfer Protocl (HTTP)
 ## Revision
 - Test these
 - go through each unit and get unit vocab e.g. https://studio.code.org/courses/csp-2025/units/1/vocab
+- review program before exam, input, output etc
+- written resposne prompts samples before submitting
 
+
+## Program task - 30%
++ Submit to AP digital portfolio
+
+## Submision
++ program code - can be collaborative ok with another student
+    + Must take input from (a user e.g. an event trigger, a device, an online data stream, a file)
+    + Must use at least one list or other collection type, to represent stored data and used to manage program complexity and fulfil programs purpose
+    + At least one procecure the contrinutes to the programs purpose where you have defined:
+        + The procedure name
+        + the return type (if applicable)
+        + one or more parameters
+    + An algorithm that includes sequencing, selection and iterationt that is in the body of the selected procedure
+    + A Call to this procecure 
+    + Instructons of output (tactile, audible, visual or textual) based on input and progtams functionality
++ Video requirements: MP4, AVI, MOV, WEBM, WMV
+    + must demosntrate program running including:
+        + input to program
+        + at least one aspect of the functionality of the program
+        + Output produced
+    + must not:
+        + contain uer distinguishing info
+        + Voice narration (text captions are OK)
+        + Longer than 1 minute
+        + Greater than 30MB
++ Personalised project reference - code for procedure and list - no comments here, provided to student for exam
+    + Capture and paste two program code segments that contain the prodecure that imlenents the algorthm used in the ptogram
+    + The first segment must be a student developed procedure that:
+        + defines the procedure name and return type (if applicable)
+        + Contains ans uses one or more parameters that have an effect on the functionality of the procedure
+        + Implements an algorithm that includes sequencing, selecion and iteration
+    + The second code segment must show where your student developed procedure is being called in the program
+    + List: capture and paste two program code segments you developed as part of this task that contain a list (or other collection type) being used to manage complexity in your program
+        + The first segment: show how data have been stored in the list
+        + THe second: must show data in same list being used e.g. creating new data form the existing data or accessing multiopel elements in the last as part of fulfilling program purpose
+ 
+
+
+## Exam - 70%
++ 2 hours of 70 multiple choice questions
++ 1 hour for 4 written response questions on the program task:
+    + program design, function and purpose - 
+    + Algorithm development
+    + Errors and testing
+    + Data and procedural abstraction
+
+The performance task written resposne uses the following key verbs:
+1. Capture:  select a portion of the program code that addresses the prompt(s)
+2. Demonstrate: Provide evidence for an asnwer of point being made
+3. Describe: provide the relevant features or characteristics of what the program code respresents of is being used to accomplish
+4. Design: Develpp a plan for how to accomplish the prigram specification or requirements
+5. Explain: provide the how or why something occurs, listing detail step of an algorithm of evidence and/or reasoning
+6. Identify: Provide a name for the specific topic without elaboration or explanation
+7. Implement/write: recognise and use the proper syntax to execure the program design
+
+
+
+
+## Big Ideas Exam Weighting
++ Big Idea 1: Creative Development 10–13%
++ Big Idea 2: Data 17–22%
++ Big Idea 3: Algorithms and Programming 30–35%
++ Big Idea 4: Computer Systems and Networks 11–15%
++ Big Idea 5: Impact of Computing 21–26%
 
 ## Important info
 - ap class room task: 

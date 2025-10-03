@@ -60,3 +60,75 @@ Respecting intellectual property rights ensures creators are credited and compen
 <summary>Sample Answer</summary>
 Example: Sharing copyrighted music online makes it easy for people to access, but it can hurt artists' income and break copyright laws. The challenge is balancing access to information with respecting creators' rights.
 </details>
+
+---
+
+## Q7. What is the Internet?
+
+<details markdown="1">
+<summary>Answer</summary>
+The Internet is a global network of interconnected computers that communicate using standardized protocols to share information and resources.
+</details>
+
+---
+
+## Q8. What is an IP address and why is it important?
+
+<details markdown="1">
+<summary>Answer</summary>
+An IP address is a unique identifier assigned to each device on a network, allowing data to be sent to the correct destination. It is essential for routing packets across the Internet.
+</details>
+
+---
+
+## Q9. What is a packet in networking?
+
+<details markdown="1">
+<summary>Answer</summary>
+A packet is a small chunk of data sent over a network. Large messages are broken into packets, which are transmitted separately and reassembled at the destination.
+</details>
+
+---
+
+## Q10. What is the role of a router?
+
+<details markdown="1">
+<summary>Answer</summary>
+A router forwards packets between networks, choosing the best path for each packet based on its destination address.
+</details>
+
+---
+
+## Q11. What is redundancy in networking and why is it important?
+
+<details markdown="1">
+<summary>Answer</summary>
+Redundancy means having multiple pathways for data to travel. It increases reliability and fault tolerance, so if one path fails, data can still reach its destination.
+</details>
+
+---
+
+## Q12. What is HTTP and what is it used for?
+
+<details markdown="1">
+<summary>Answer</summary>
+HTTP (HyperText Transfer Protocol) is the protocol used for transferring web pages and other resources on the World Wide Web.
+</details>
+
+---
+
+## Q13. What is DNS and why is it needed?
+
+<details markdown="1">
+<summary>Answer</summary>
+DNS (Domain Name System) translates human-readable domain names (like www.example.com) into IP addresses that computers use to communicate.
+</details>
+
+---
+
+## Q14. What is the World Wide Web (WWW) and how is it different from the Internet?
+
+<details markdown="1">
+<summary>Answer</summary>
+The World Wide Web (WWW) is a collection of web pages and resources accessed via the Internet using protocols like HTTP. The Internet is the global network of computers; the WWW is one of the services that runs on top of it.
+</details>

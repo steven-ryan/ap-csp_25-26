@@ -26,6 +26,34 @@ Respecting intellectual property rights ensures creators are credited and compen
 
 ---
 
+## Q2b. What is a Creative Commons license?
+
+<details markdown="1">
+<summary>Answer</summary>
+A Creative Commons license is a public copyright license that allows creators to specify how others can use, share, and build upon their work. It provides a flexible range of protections and permissions for creative content.
+</details>
+
+---
+
+## Q2c. Why might someone choose to use a Creative Commons license for their digital work?
+
+<details markdown="1">
+<summary>Answer</summary>
+To encourage sharing, collaboration, and reuse of their work while still retaining some rights. It makes it easier for others to legally use, adapt, and distribute content for education, research, or creative projects.
+</details>
+
+---
+
+## Q2d. Name and briefly describe two types of Creative Commons licenses.
+
+<details markdown="1">
+<summary>Answer</summary>
+1. CC BY (Attribution): Others can use, share, and adapt the work as long as they give credit to the creator.
+2. CC BY-NC (Attribution-NonCommercial): Others can use and adapt the work for non-commercial purposes only, with credit to the creator.
+</details>
+
+---
+
 ## Q3. Describe a digital information dilemma and explain why it is challenging.
 
 <details markdown="1">
