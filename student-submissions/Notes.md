@@ -86,8 +86,6 @@ Lossless compression  🌕
 Lossy compression 🌔
 > reduces file size by removing some data, resulting in a loss of quality. The original data cannot be perfectly restored.
 
-
-
 intellectual property 
 > any intangible creations of the mind, such as inventions, artistic works, designs, brand names, and symbols.
 
@@ -120,6 +118,42 @@ Path
 
 Bandwidth
 > the maximum theoretical amount of data that can be transmitted over a communication channel within a given period of time, typically measured in bits per second (bps)
+
+Transmission Control Protocol (TCP)
+> defines how computers sends data packets to each other. guides how data is subdivided into packets before transmission. 
+
+User Datagram Protocol (UDP)
+> allows computers to send messages without checking for missing packets to save time. this makes UPD less reliable but faster than TCP.
+
+Sequential Computing
+> problem is broken into discrete instructions then executed one by one by a single device having a single CPU
+
+Parallel Computing
+> problem is broken into discrete instructions then executed concurrently by using multiple CPUs. it is used for real world simulations and modeling.
+
+Distributed Computing
+> multiple devices used to run a program. Used to solve problems faster and allows problems to be solved that would be impossible for a single computer.
+
+Router
+> a network device that connects two or more separate networks, such as a home network to the Internet, by forwarding data packets to their correct destinations.
+
+Switch
+> a switch is a networking device that connects multiple devices on a single local area network (LAN) and directs data traffic to the correct destination using a Media Access Control (MAC) address.
+
+Packet
+> a small, standardized unit of data used to transmit information across a network, like the internet.
+
+Firewall
+> a security system that acts as a barrier between a trusted network and an untrusted network.
+
+Internet Protocol (IP)
+> the fundamental network protocol that governs how data is routed and addressed across the internet and other networks.
+
+Domain Name System (DNS)
+> acts as the internet's "phonebook," translating human-friendly domain names into machine-readable IP addresses.
+
+HyperText Transfer Protocl (HTTP)
+> the underlying set of rules, or protocol, for data transfer over the internet, enabling web browsers (clients) to request and retrieve resources like web pages, images, and videos from web servers.
 
 
 ## Revision
@@ -192,6 +226,11 @@ The performance task written resposne uses the following key verbs:
 + Big Idea 3: Algorithms and Programming 30–35%
 + Big Idea 4: Computer Systems and Networks 11–15%
 + Big Idea 5: Impact of Computing 21–26%
+
+## Important info
+- ap class room task: 
+    - https://apstudents.collegeboard.org/ap/pdf/ap-digital-portfolio-terms-and-conditions.pdf
+    - https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course/faq/plagiarism-policy
 
 
 
