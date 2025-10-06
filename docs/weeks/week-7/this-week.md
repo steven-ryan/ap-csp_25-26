@@ -5,11 +5,38 @@ title: Week 7 — Plan
 
 # Week 7: This Week in AP CSP
 
-## Unit 2: Lesson 4 - Routers and redundency
-## Unit 2: Lesson 5 - Packets
-## Unit 2: Lesson 6 - HTTP and DNS
+# Thursday 
+## Preperation
 
+## Unit 2 - Lesson 3: zzzz
+- Lesson: 
+- Slides: 
 
-## Home work
-## Unit 2: Lesson 7 - project internet dilemas
-## Unit 2: Lesson 8 - Assessment
+## Preperation
+
+## Unit 3: Lesson 1: zzzz
+- Lesson: 
+- Slides: 
+
+## Home work:
+- 
+===
+
+# Friday
+Unit 2 The Internet
+
+## Preperation
+
+## Unit 3: Lesson 2: yyyy
+- Lesson: 
+- Slides: 
+
+## Preperation
+
+## Unit 2 - Lesson 6: zzzz
+- Lesson: 
+- Slides: 
+
+## Home work:
+- 
+ 
