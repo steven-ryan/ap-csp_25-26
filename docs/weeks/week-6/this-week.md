@@ -29,4 +29,8 @@ Unit 2 The Internet
 
 ## Home work:
 - Do the computer systems and networks photo copied questions/quiz p322-327 (unit 2)
+- Read Barrons - Chapter 4 Big Idea3 - Algorithms and programming: p199 - 215 - make sure you understand the example and flag any that you do not to discuss
+
+
+
 
