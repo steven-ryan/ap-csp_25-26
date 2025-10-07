@@ -22,7 +22,7 @@ SITE_URL="${SITE_URL:-https://steven-ryan.github.io/ap-csp_25-26}"
 plan_url="$SITE_URL/weeks/week-$week/this-week.html"
 quiz_url="$SITE_URL/weeks/week-$week/quiz.html"
 
-newline="👉 Current week: Week ${week} — Plan: [Week ${week} plan](${plan_url}) — Quiz: [Week ${week} quiz](${quiz_url})"
+newline="👉 Current week: Week ${week} — Plan: [Week ${week} plan](${plan_url})"
 
 tmp="$(mktemp)"; trap 'rm -f "$tmp"' EXIT
 awk -v repl="$newline" '

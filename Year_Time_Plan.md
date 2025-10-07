@@ -215,11 +215,11 @@ CONFIRM it matches the PDF for 2026
 | | Iterative development & debugging | | [ ] |
 | | Documentation / written responses | | [ ] |
 | **Big Idea 2: Data** | Binary representation of numbers | | [ ] |
-| | Text encoding (ASCII / Unicode) | | [ ] |
-| | Images (pixels, color depth) | | [ ] |
-| | Sound (sampling, digital audio) | | [ ] |
-| | Data compression (lossy, lossless) | | [ ] |
-| | Data abstraction & visualization | | [ ] |
+| | Text encoding (ASCII / Unicode) | | [x] |
+| | Images (pixels, color depth) | | [x] |
+| | Sound (sampling, digital audio) | | [x] |
+| | Data compression (lossy, lossless) | | [x] |
+| | Data abstraction & visualization | | [x] |
 | **Big Idea 3: Algorithms & Programming** | Sequencing (order of instructions) | | [ ] |
 | | Selection / conditionals (if-else) | | [ ] |
 | | Iteration / loops | | [ ] |
@@ -227,13 +227,13 @@ CONFIRM it matches the PDF for 2026
 | | Abstraction (breaking complex problems into simpler parts) | | [ ] |
 | | Algorithm efficiency & analysis | | [ ] |
 | | Testing & debugging strategies | | [ ] |
-| **Big Idea 4: Computer Systems & Networks** | Internet structure (IP, TCP, DNS) | | [ ] |
-| | Fault tolerance / redundancy | | [ ] |
-| | Cybersecurity basics | | [ ] |
-| | Data transfer / packet routing | | [ ] |
-| | Networking protocols & reliability | | [ ] |
+| **Big Idea 4: Computer Systems & Networks** | Internet structure (IP, TCP, DNS) | | [x] |
+| | Fault tolerance / redundancy | | [x] |
+| | Cybersecurity basics | | [x] |
+| | Data transfer / packet routing | | [x] |
+| | Networking protocols & reliability | | [x] |
 | **Big Idea 5: Impact of Computing** | Ethics in computing | | [ ] |
-| | Privacy & intellectual property | | [ ] |
-| | Global impact of computing innovations | | [ ] |
-| | Societal implications (AI, automation) | | [ ] |
-| | Innovation & collaboration in computing | | [ ] |
+| | Privacy & intellectual property | | [x] |
+| | Global impact of computing innovations | | [x] |
+| | Societal implications (AI, automation) | | [x] |
+| | Innovation & collaboration in computing | | [x] |
