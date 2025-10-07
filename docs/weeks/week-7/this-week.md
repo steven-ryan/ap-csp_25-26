@@ -6,37 +6,31 @@ title: Week 7 — Plan
 # Week 7: This Week in AP CSP
 
 # Thursday 
-## Preperation
+## Preparation
 
-## Unit 2 - Lesson 3: zzzz
-- Lesson: 
-- Slides: 
+## Unit 3: Lesson 1 - 
+- Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/1
+- Slides: https://docs.google.com/presentation/d/1g6LFNgWIB6RQtBwLVM6Oub8MwCb7esjlspivaMmr_GI/edit?slide=id.g5f66b741f9_0_5#slide=id.g5f66b741f9_0_5
 
-## Preperation
+## Home work
 
-## Unit 3: Lesson 1: zzzz
-- Lesson: 
-- Slides: 
+- Read Barrons - Chapter 4 Big Idea3 - Algorithms and programming: p216 - 232 - make sure you understand the example and flag any that you do not to discuss
 
-## Home work:
-- 
-===
+
 
 # Friday
-Unit 2 The Internet
-
 ## Preperation
 
-## Unit 3: Lesson 2: yyyy
-- Lesson: 
-- Slides: 
+## Unit 3: Lesson 2 - 
+- Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/2
+- Slides: https://docs.google.com/presentation/d/1t5uWQ3OqPWfuT7HXSU98zw7vAfkvTB0HJHQAUOSBKX8/edit?slide=id.g5f7830f662_0_12#slide=id.g5f7830f662_0_12
 
-## Preperation
 
-## Unit 2 - Lesson 6: zzzz
-- Lesson: 
-- Slides: 
 
-## Home work:
-- 
- 
+## Home work
+- Do the AP classroom exam Big Idea 4 - Computer systems and networks - Unit 2
+- Do the AP classroom exam Big Idea 5 - Impacts of computing - Unit 2
+
+
+
+TODO 232 the swap list cover in a class, photocopy quiz 236 - 249

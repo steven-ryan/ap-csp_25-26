@@ -16,17 +16,57 @@ Unit 9. Create PT Prep: 4 lessons
 Unit 10. Algorithms: 9 lessons
 Assessments are locked
 
+
+## AP quiz map
+Unit 1: Digital Information
+
+Big Idea 1: Creative Development (Create PT, design, pseudocode, collaboration)
+Big Idea 2: Data (binary, text, images, sound, compression)
+Unit 2: The Internet
+
+Big Idea 4: Computer Systems & Networks (IP, TCP, DNS, redundancy, cybersecurity, packet routing, protocols)
+Big Idea 5: Impact of Computing (ethics, privacy, global impact, innovation)
+Unit 3: Intro to App Design
+
+Big Idea 1: Creative Development (design cycle, planning, documentation)
+Big Idea 3: Algorithms & Programming (sequencing, selection, iteration, abstraction)
+Unit 4: Variables, Conditionals, and Functions
+
+Big Idea 3: Algorithms & Programming (variables, conditionals, loops, functions, abstraction, efficiency)
+Unit 5: Data
+
+Big Idea 2: Data (data abstraction, visualization, big data, privacy)
+Big Idea 5: Impact of Computing (data mining, societal implications)
+Unit 6: Lists, Loops, and Traversals
+
+Big Idea 3: Algorithms & Programming (lists, traversals, iteration, efficiency)
+Unit 7: Parameters, Return, and Libraries
+
+Big Idea 3: Algorithms & Programming (parameters, return values, libraries, abstraction)
+Unit 8: Cybersecurity and Global Impacts
+
+Big Idea 4: Computer Systems & Networks (security, encryption)
+Big Idea 5: Impact of Computing (ethics, privacy, global impact)
+Unit 9: Create PT Prep
+
+Big Idea 1: Creative Development (project planning, abstraction, algorithm, written responses)
+Unit 10: Algorithms
+
+Big Idea 3: Algorithms & Programming (algorithmic thinking, problem solving, efficiency)
+
+
+
 ## Pacing
 Aim for three lessons a week
 | Week | Start Date  | Month      | Unit & Lesson(s) pace to aim for   | Notes/Holidays                |
 |------|-------------|------------|------------------------------------|-------------------------------|
-| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2   |
-| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed           |
-| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered         |
-| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2     |
-| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |  Unit 2 Lessons  3-6          |
-| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |  Unit 2 Lessons  7, 8 locked  |
-| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |                               |
+| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2                             |
+| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed                             |
+| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered                     |
+| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2                           |
+| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Unit 2 Lessons  3-6                           |
+| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |   Unit 2 Lessons  7, [8 locked]         |
+| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |   Unit 3 Lessons 1,2 |
 | 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |                               |
 | 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Ordination.                  |
 | 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |                               |
@@ -215,11 +255,11 @@ CONFIRM it matches the PDF for 2026
 | | Iterative development & debugging | | [ ] |
 | | Documentation / written responses | | [ ] |
 | **Big Idea 2: Data** | Binary representation of numbers | | [ ] |
-| | Text encoding (ASCII / Unicode) | | [ ] |
-| | Images (pixels, color depth) | | [ ] |
-| | Sound (sampling, digital audio) | | [ ] |
-| | Data compression (lossy, lossless) | | [ ] |
-| | Data abstraction & visualization | | [ ] |
+| | Text encoding (ASCII / Unicode) | | [x] |
+| | Images (pixels, color depth) | | [x] |
+| | Sound (sampling, digital audio) | | [x] |
+| | Data compression (lossy, lossless) | | [x] |
+| | Data abstraction & visualization | | [x] |
 | **Big Idea 3: Algorithms & Programming** | Sequencing (order of instructions) | | [ ] |
 | | Selection / conditionals (if-else) | | [ ] |
 | | Iteration / loops | | [ ] |
@@ -227,13 +267,13 @@ CONFIRM it matches the PDF for 2026
 | | Abstraction (breaking complex problems into simpler parts) | | [ ] |
 | | Algorithm efficiency & analysis | | [ ] |
 | | Testing & debugging strategies | | [ ] |
-| **Big Idea 4: Computer Systems & Networks** | Internet structure (IP, TCP, DNS) | | [ ] |
-| | Fault tolerance / redundancy | | [ ] |
-| | Cybersecurity basics | | [ ] |
-| | Data transfer / packet routing | | [ ] |
-| | Networking protocols & reliability | | [ ] |
+| **Big Idea 4: Computer Systems & Networks** | Internet structure (IP, TCP, DNS) | | [x] |
+| | Fault tolerance / redundancy | | [x] |
+| | Cybersecurity basics | | [x] |
+| | Data transfer / packet routing | | [x] |
+| | Networking protocols & reliability | | [x] |
 | **Big Idea 5: Impact of Computing** | Ethics in computing | | [ ] |
-| | Privacy & intellectual property | | [ ] |
-| | Global impact of computing innovations | | [ ] |
-| | Societal implications (AI, automation) | | [ ] |
-| | Innovation & collaboration in computing | | [ ] |
+| | Privacy & intellectual property | | [x] |
+| | Global impact of computing innovations | | [x] |
+| | Societal implications (AI, automation) | | [x] |
+| | Innovation & collaboration in computing | | [x] |
