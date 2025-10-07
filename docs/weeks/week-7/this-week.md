@@ -6,12 +6,13 @@ title: Week 7 — Plan
 # Week 7: This Week in AP CSP
 
 # Thursday 
-## Preperation
+## Preparation
 
 ## Unit 3: Lesson 1 - 
 - Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/1
 - Slides: https://docs.google.com/presentation/d/1g6LFNgWIB6RQtBwLVM6Oub8MwCb7esjlspivaMmr_GI/edit?slide=id.g5f66b741f9_0_5#slide=id.g5f66b741f9_0_5
 
+## Home work
 
 - Read Barrons - Chapter 4 Big Idea3 - Algorithms and programming: p216 - 232 - make sure you understand the example and flag any that you do not to discuss
 
@@ -32,4 +33,4 @@ title: Week 7 — Plan
 
 
 
-TODO 216 ROBOT, 232 the swap list, quiz 236 - 249
+TODO 232 the swap list cover in a class, photocopy quiz 236 - 249
