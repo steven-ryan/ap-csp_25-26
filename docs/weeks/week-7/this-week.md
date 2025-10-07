@@ -12,6 +12,10 @@ title: Week 7 — Plan
 - Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/1
 - Slides: https://docs.google.com/presentation/d/1g6LFNgWIB6RQtBwLVM6Oub8MwCb7esjlspivaMmr_GI/edit?slide=id.g5f66b741f9_0_5#slide=id.g5f66b741f9_0_5
 
+## Home work
+
+- Read Barrons - Chapter 4 Big Idea3 - Algorithms and programming: p216 - 232 - make sure you understand the example and flag any that you do not to discuss
+
 
 
 # Friday
@@ -26,3 +30,7 @@ title: Week 7 — Plan
 ## Home work
 - Do the AP classroom exam Big Idea 4 - Computer systems and networks - Unit 2
 - Do the AP classroom exam Big Idea 5 - Impacts of computing - Unit 2
+
+
+
+TODO 232 the swap list cover in a class, photocopy quiz 236 - 249

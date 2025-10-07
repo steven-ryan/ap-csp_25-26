@@ -20,24 +20,24 @@ Assessments are locked
 Aim for three lessons a week
 | Week | Start Date  | Month      | Unit & Lesson(s) pace to aim for   | Notes/Holidays                |
 |------|-------------|------------|------------------------------------|-------------------------------|
-| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2                             |
-| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed                             |
-| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered                     |
-| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2                           |
-| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |   Unit 2 Lessons  3-6                           |
-| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |   Unit 2 Lessons  7, 8 locked         |
+| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2   |
+| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed           |
+| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered         |
+| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2     |
+| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |  Unit 2 Lessons  3-6          |
+| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |  Unit 2 Lessons  7, 8 locked  |
 | 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |                               |
 | 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |                               |
-| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |                               |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Ordination.                  |
 | 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |                               |
 | 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |                               |
 | 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |                               |
-| 13   | Nov 24      | November   | Thanksgiving Break                  | No class                      |
+| 13   | Nov 24      | November   | Thanksgiving Break                  | No class                     |
 | 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  |                               |
 | 15   | Dec 8       | December   | Unit 5: Lessons 2–4                |                               |
 | 16   | Dec 15      | December   | Unit 5: Lessons 5–7                |                               |
-| 17   | Dec 22      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)       |
-| 18   | Dec 29      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)       |
+| 17   | Dec 22      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)      |
+| 18   | Dec 29      | December   | Christmas/New Year’s Break          | No class (Dec 22–Jan 2)      |
 | 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  |                               |
 | 20   | Jan 12      | January    | Unit 6: Lessons 3–5                |                               |
 | 21   | Jan 19      | January    | Unit 6: Lessons 6–8                |                               |
