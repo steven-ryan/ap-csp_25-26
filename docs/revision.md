@@ -15,6 +15,8 @@ From ap classroom and barrons
 - check all barrons chapters reviewed
 - code.org unit vocabs e.g.  https://studio.code.org/teacher_dashboard/sections/6109201/materials
 
+## Run through marking guide and decide if you would get the points
+## Write an abstract class implemeting the loop, algorithm etc
 
 #
 TODO 232 the swap list cover in a class at relevant time (LISTS and Algorithms), photocopy quiz 236 - 249
