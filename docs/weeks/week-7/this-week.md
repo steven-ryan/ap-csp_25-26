@@ -33,4 +33,5 @@ title: Week 7 — Plan
 
 
 
-TODO 232 the swap list cover in a class, photocopy quiz 236 - 249
+
+ 
