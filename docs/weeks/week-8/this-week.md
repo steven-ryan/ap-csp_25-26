@@ -44,4 +44,4 @@ Unit 2 The Internet
 - Slides: 
 
 ## Home work:
-- 
+- Do the AP classroom exam Big Idea 5 - Impacts of computing - Unit 2
