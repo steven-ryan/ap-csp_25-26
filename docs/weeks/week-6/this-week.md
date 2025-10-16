@@ -22,7 +22,7 @@ title: Week 6 — Plan
 # Friday
 Unit 3 Intro to App design
 
-## Unit 3: Lesson 1 - 
+## Unit 3: Lesson 1 - Introduction to Apps
 - Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/1
 - Slides: https://docs.google.com/presentation/d/1g6LFNgWIB6RQtBwLVM6Oub8MwCb7esjlspivaMmr_GI/edit?slide=id.g5f66b741f9_0_5#slide=id.g5f66b741f9_0_5
 

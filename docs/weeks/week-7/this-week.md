@@ -19,14 +19,14 @@ title: Week 7 — Plan
 
 ## Home work
 
-- Read Barrons - Chapter 4 Big Idea3 - Algorithms and programming: p216 - 232 - make sure you understand the example and flag any that you do not to discuss
 
 
 
 # Friday
 ## Preperation
 
-## Unit 3: Lesson 4 - he Need for Programming Languages
+## Unit 3: Lesson 4 - The Need for Programming Languages
+
 - Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/4
 - Slides: https://docs.google.com/presentation/d/1oXCko_CKu9SnMCYy4Gw5BTAG3YVtg8okK9G1SGVdlUI/edit?slide=id.g5f6ffea5c6_0_0#slide=id.g5f6ffea5c6_0_0
 
@@ -38,6 +38,11 @@ title: Week 7 — Plan
 
 ## Home work
 - Do the AP classroom exam Big Idea 5 - Impacts of computing - Unit 2
+- Read Barrons - Chapter 2 Big Idea 1 - Creative development: p139 (From Development process) - p141 (to the end) 
+- Read Barrons - Chapter 4 Big Idea 3 - Algorithms and programming: p216 - 235 - make sure you understand the example and flag any that you do not to discuss
+
+
+
 
 
 

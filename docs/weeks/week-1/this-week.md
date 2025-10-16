@@ -24,7 +24,7 @@ title: Week 1 — Plan
 
 ## Home Work
   - Barron’s: Big Idea 1: Creative development
-    - pages 133-135 Computing innovations
+    - pages 133-135 Computing innovations [Big Idea 1 - Creative development]
     - skim over pages 136-137 to get a grasp of text and graphical based code style you will see in the exam 
     - page 138-139 program input, stop at development process
 - sign up to code.org (can use google account) as a student  https://studio.code.org/courses/csp-2025/units/1/lessons/1/student
