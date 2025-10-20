@@ -18,10 +18,12 @@ title: Week 7 — Plan
 
 
 ## Home work
+- Read Barrons - Chapter 2 Big Idea 1 - Creative development: p139 (From Development process) - p141 (to the end) 
 
 - Read Barrons - Chapter 4 Big Idea 3 - Algorithms and programming: p216 - 232 - make sure you understand the example and flag any that you do not to discuss
 
 - Do the AP classroom exam Big Idea 5 - Impacts of computing - Unit 2
+
 
 
 
