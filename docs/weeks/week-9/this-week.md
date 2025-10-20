@@ -46,4 +46,5 @@ Unit 2 The Internet
 - Slides: 
 
 ## Home work:
-- Unit 3 classroom exam...
+- Unit 3 classroom exam... and or 
+- ONLINE QUIZ - Big Idea 2 - Data - Unit 1
