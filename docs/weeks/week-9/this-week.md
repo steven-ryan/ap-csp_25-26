@@ -27,7 +27,8 @@ title: Week 9 — Plan
 - 
 
 ## Home work:
-- 
+- Chapter 4 Big Idea 3 (Algorithms and programming) Quiz part 2 - P276-297 (photocopy)
+- Big Idea 1 - Creative Development
 ===
 
 # Friday
@@ -36,6 +37,7 @@ Unit 2 The Internet
 ## Preperation
 
 ## Unit 2 - Lesson 5: yyyy
+- Review quiz
 - Lesson: 
 - Slides: 
 
@@ -46,5 +48,7 @@ Unit 2 The Internet
 - Slides: 
 
 ## Home work:
-- Unit 3 classroom exam... and or 
+- Online Quiz: Big Idea 5 - Impacts of computing - unit 2 - if not done
+- - Unit 3 classroom exam... and or 
 - ONLINE QUIZ - Big Idea 2 - Data - Unit 1
+
