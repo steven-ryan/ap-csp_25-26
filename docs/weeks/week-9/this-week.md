@@ -19,8 +19,8 @@ title: Week 9 — Plan
 - Slides: 
 
 ## Home work:
-- -  Chapter 4 Big Idea 3 (Algorithms and programming) Quiz part 2 - P276-297 (photocopy)
-
+- Chapter 4 Big Idea 3 (Algorithms and programming) Quiz part 2 - P276-297 (photocopy)
+- Big Idea 1 - Creative Development
 ===
 
 # Friday
