@@ -25,6 +25,9 @@ title: Week 8 — Plan
 - Slides: https://docs.google.com/presentation/d/1mRpR7FKPCKrkMLB5uGr6P2O0aQj1J-MIk6VYsDiMK54/edit?slide=id.g5f7830fad8_1_197#slide=id.g5f7830fad8_1_197
 
 
+## Home work
+- Read Barrons - Chapter 4 Big Idea 3 - Algorithms and programming part 2: p260  - 275 (following the examples) 
+
 
 
 # Friday:
@@ -42,5 +45,4 @@ title: Week 8 — Plan
 
 
 ## Home work
-- Do the algorithms and programming quiz  p236-249 (Chapter 4 - Big Idea 3)
-- Read Barrons - Chapter 4 Big Idea 3 - Algorithms and programming part 2: p260  - 275 (following the examples) 
+- Do the algorithms and programming quiz  p236-249 (Chapter 4 - Big Idea 3) - Questions part 1

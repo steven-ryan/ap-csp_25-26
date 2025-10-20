@@ -48,7 +48,5 @@ Unit 2 The Internet
 - Slides: 
 
 ## Home work:
-- Online Quiz: Big Idea 5 - Impacts of computing - unit 2 - if not done
-- - Unit 3 classroom exam... and or 
-- ONLINE QUIZ - Big Idea 2 - Data - Unit 1
+- Do the algorithms and programming quiz  p276-297 (Chapter 4 - Big Idea 3) - Questions part 2
 
