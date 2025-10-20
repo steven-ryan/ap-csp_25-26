@@ -29,7 +29,6 @@ title: Week 8 — Plan
 - Read Barrons - Chapter 4 Big Idea 3 - Algorithms and programming part 2: p260  - 275 (following the examples) 
 
 
-
 # Friday:
 
 ## Unit 3 - Lesson 6: Debugging
