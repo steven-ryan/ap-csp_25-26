@@ -66,9 +66,9 @@ Aim for three lessons a week
 | 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons  1-2                           |
 | 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |  Unit 2 Lessons  3-6                           |
 | 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |  Unit 2 Lessons  7, [8 locked], Unit 3 Lesson 1        |
-| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |  Unit 3 Lessons 2,3,4,5 |
-| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |                               |
-| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Ordination.                  |
+| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |  Unit 3 Lessons 2,3 - Trip |
+| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |  Unit 3 Lessons 4,5,6,7                              |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  x,y - Ordination.                  |
 | 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |                               |
 | 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |                               |
 | 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |                               |
