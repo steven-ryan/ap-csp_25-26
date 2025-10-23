@@ -22,8 +22,8 @@ title: Week 8 — Plan
 
 ## Unit 3 - Lesson 6: Debugging
 
-- Lesson: https://studio.code.org/courses/csp-2025/units/3/lessons/6)
-- Slides: https://docs.google.com/presentation/d/1C9bXPRlfG4u-o2ZNzhdQHxBiX20ItmQJCd1cPBAYCLc/edit?slide=id.g5f7830fad8_1_256#slide=id.g5f7830fad8_1_256)
+- [Lesson]: (https://studio.code.org/courses/csp-2025/units/3/lessons/6)
+- [Slides]: (https://docs.google.com/presentation/d/1C9bXPRlfG4u-o2ZNzhdQHxBiX20ItmQJCd1cPBAYCLc/edit?slide=id.g5f7830fad8_1_256#slide=id.g5f7830fad8_1_256)
 
 
 
