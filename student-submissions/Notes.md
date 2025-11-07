@@ -155,6 +155,16 @@ Domain Name System (DNS)
 HyperText Transfer Protocl (HTTP)
 > the underlying set of rules, or protocol, for data transfer over the internet, enabling web browsers (clients) to request and retrieve resources like web pages, images, and videos from web servers.
 
+Expression
+> a combination of operators and values that evaluates to a single value.
+
+Variable
+> holds one value at a time.
+> a reference to a value (or value that results from evaluation an expression) that can be used repeatedly throughout a program.
+
+Assignment Operator
+> allows a program to change the value represented by a variable.
+
 
 ## Revision
 - Test these
