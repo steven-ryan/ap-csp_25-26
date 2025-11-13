@@ -68,9 +68,9 @@ Aim for three lessons a week
 | 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |  Unit 2 Lessons  7, [8 locked], Unit 3 Lesson 1   |
 | 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |  Unit 3 Lessons 2,3 - Trip |
 | 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |  Unit 3 4,5,6,7, MISSED FRI   |
-| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Unit 4: 1,2: ,y - Ordination.     |
-| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |                               |
-| 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |                               |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Unit 4: 1,2: , Ordination.     |
+| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |  Unit 4: 3,4            |
+| 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |  Unit 4: 5,6,7,8 |
 | 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |                               |
 | 13   | Nov 24      | November   | Thanksgiving Break                 | No class                      |
 | 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  |                               |
