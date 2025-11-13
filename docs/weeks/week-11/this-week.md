@@ -10,8 +10,6 @@ title: Week 11 — Plan
 
 
 
-
-
 # Thursday
 
 ## Unit 4 - Lesson 7: Conditionals Practice
@@ -41,4 +39,5 @@ title: Week 11 — Plan
 - [Slides](https://docs.google.com/presentation/d/110DZOIETnGqaeEDwRIxPQTRPscrFlQo4K4SMB7ZPuZ0/template/preview)
 
 ## Home work:
++ Do the AP Classroom Quiz entitled: 'Big Idea 3 - Algorithms and Programming - Unit 3' (45 questions, quite challenging) 
 
