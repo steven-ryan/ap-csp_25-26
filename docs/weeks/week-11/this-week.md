@@ -19,14 +19,13 @@ title: Week 11 — Plan
 
 
 
+
+ 
+# Friday
 ## Unit 4 - Lesson 8: Conditionals Make
 - [Lesson](https://studio.code.org/courses/csp-2025/units/4/lessons/8)
 - [Slides](https://docs.google.com/presentation/d/1kuGZvclqYMHxS5AyJw4FMCemkCU_CiyArchxzRfmlzo/edit?slide=id.g1f0856e07fc_0_0#slide=id.g1f0856e07fc_0_0)
 
-## Home work:
-- 
-
-# Friday
 
 ## Unit 4 - Lesson 9: Functions Explore and Investigate
 - [Lesson](https://studio.code.org/courses/csp-2025/units/4/lessons/9)
