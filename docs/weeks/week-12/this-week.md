@@ -24,5 +24,4 @@ title: Week 12 — Plan
 
 ## Home work:
 + LAST o the AP Classroom Quiz entitled: 'Big Idea 3 - Algorithms and Programming - Unit 3' (45 questions, quite challenging) 
-+ ...
-
++ 
