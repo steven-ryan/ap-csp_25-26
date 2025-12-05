@@ -165,6 +165,13 @@ Variable
 Assignment Operator
 > allows a program to change the value represented by a variable.
 
+Correlation
+> statistical measure showing how two or more variables change together, indicating the strength and direction of their relationship.
+
+Metadata
+> data about data, providing context, description, and management info for other data, making it easier to find, use, and organize.
+
+
 
 ## Revision
 - Test these
