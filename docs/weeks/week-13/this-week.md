@@ -21,7 +21,3 @@ title: Week 13 — Plan
 - [Slides](https://docs.google.com/presentation/d/19vCthigc18Zw6hA9Ux_bvdNIWrBvq6ZBI3qFwPYCGFc/template/preview)
 
 
-## Unit 5 - Lesson 2: Exploring One Column
-- [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/2)
-- [Slides](https://docs.google.com/presentation/d/1FrQ2MEvdPU0nAo5lrPpwczwqCnVV7ud4wn6W0yDvcU4/template/preview)
-

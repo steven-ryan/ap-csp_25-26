@@ -22,4 +22,4 @@ title: Week 12 — Plan
 
 # Friday
 ## Unit 4 - Lesson 12: Project - Decision Maker App - Day 2
-Lessom and slides as above
+Lesson and slides as above
