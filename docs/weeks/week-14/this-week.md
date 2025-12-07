@@ -5,6 +5,13 @@ title: Week 14 — Plan
 
 # Week 14: This Week in AP CSP
 
+# Thursday 
+
+## Unit 5 - Lesson 2: Exploring One Column
+- [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/2)
+- [Slides](https://docs.google.com/presentation/d/1FrQ2MEvdPU0nAo5lrPpwczwqCnVV7ud4wn6W0yDvcU4/template/preview)
+
+
 ## Unit 5 - Lesson 3: Filtering and Cleaning Data
 
 - [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/3)

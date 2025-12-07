@@ -71,10 +71,10 @@ Aim for three lessons a week
 | 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Unit 4: 1,2: , Ordination.     |
 | 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |  Unit 4: 3,4,5,6            |
 | 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |  Unit 4: 7,8,9,10 |
-| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |  Unit 4: 11,12           |
+| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |  Unit 4: 11,12 day. 1/2        |
 | 13   | Nov 24      | November   | Thanksgiving Break                 | No class                      |
-| 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  |                               |
-| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                |                               |
+| 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  | Unit 4: 12 day 3, Unit 5: 1                   |
+| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                |  Unit 5: 2,3,4                             |
 | 16   | Dec 15      | December   | Unit 5: Lessons 5–7                |                               |
 | 17   | Dec 22      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan 2) or Dev     |
 | 18   | Dec 29      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan 2) or Dev     |
