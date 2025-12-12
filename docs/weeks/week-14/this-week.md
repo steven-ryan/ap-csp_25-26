@@ -34,3 +34,12 @@ title: Week 14 — Plan
 - [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/6)
 - [Slides](https://docs.google.com/presentation/d/1fl470YLtoJAlRs35Wta-O-ezGmHqeYZtkpqM9CnUzVw/template/preview)
 
+# Home Work
+## Read and understand AI involvement in :
+* https://singularityhub.com/2019/11/03/food-waste-is-a-serious-problem-ai-is-trying-to-solve-it/
+* https://mashable.com/video/ai-identify-genetic-disorders-photo?
+* https://singularityhub.com/2019/09/09/how-an-ai-startup-designed-a-drug-candidate-in-just-46-days/
+* https://techcrunch.com/2019/06/26/mit-ai-tool-can-predict-breast-cancer-up-to-5-years-early-works-equally-well-for-white-and-black-patients/
+* https://www.axios.com/2019/04/12/us-army-military-casualties-autonomous-vehicles
+* https://www.theverge.com/2019/6/12/18663093/ai-sf-district-attorney-police-bias-race-charge-crime
+* https://techcrunch.com/2019/10/18/ai-is-helping-scholars-restore-ancient-greek-texts-on-stone-tablets/
