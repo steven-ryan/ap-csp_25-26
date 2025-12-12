@@ -23,13 +23,14 @@ title: Week 14 — Plan
 - [Slides](https://docs.google.com/presentation/d/1ed8qAREqkWH_x68_pCLfvn8REze-zJC1uLOAz5srKaM/template/preview)
 
 
+# Friday 
 
-## Home work:
-+ Barrons? or more data quiz
-+ ...
+## Unit 5 - Lesson 5: Big, Open, and Crowdsourced Data
+- [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/5)
+- [Slides](https://docs.google.com/presentation/d/16mcg5Y16KcrZKIAAtcYE0j4XIBLClcFUF-hC88GGIXE/template/preview)
 
-- Introduce binary search
 
-## Home work:
-+ Big Idea 3 - Algorithms and Programming - Unit 3 - part 2
-+ 
+## Unit 5 - Lesson 6: Machine Learning
+- [Lesson](https://studio.code.org/courses/csp-2025/units/5/lessons/6)
+- [Slides](https://docs.google.com/presentation/d/1fl470YLtoJAlRs35Wta-O-ezGmHqeYZtkpqM9CnUzVw/template/preview)
+
