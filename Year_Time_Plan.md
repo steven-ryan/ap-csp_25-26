@@ -60,22 +60,22 @@ Big Idea 3: Algorithms & Programming (algorithmic thinking, problem solving, eff
 Aim for three lessons a week
 | Week | Start Date  | Month      | Unit & Lesson(s) pace to aim for   | Notes/Holidays                |
 |------|-------------|------------|------------------------------------|-------------------------------|
-| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                |  Lesson 1, skipped lesson 2   |
-| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                |  Lesson 3 completed           |
-| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               |  Lessons 4-10 covered         |
-| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              |  Lesson 13 locked, Unit 2 Lessons 1-2  |
-| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                |  Unit 2 Lessons  3-6          |
-| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                |  Unit 2 Lessons  7, [8 locked], Unit 3 Lesson 1   |
-| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    |  Unit 3 Lessons 2,3 - Trip |
-| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                |  Unit 3 4,5,6,7, MISSED FRI   |
-| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    |  Unit 4: 1,2: , Ordination.     |
-| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                |  Unit 4: 3,4,5,6            |
-| 11   | Nov 10      | November   | Unit 4: Lessons 5–7                |  Unit 4: 7,8,9,10 |
-| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               |  Unit 4: 11,12 day. 1/2        |
+| 1    | Sep 1, 2025 | September  | Unit 1: Lessons 1–3                | Lesson 1, skipped lesson 2   |
+| 2    | Sep 8       | September  | Unit 1: Lessons 4–6                | Lesson 3 completed           |
+| 3    | Sep 15      | September  | Unit 1: Lessons 7–10               | Lessons 4-10 covered         |
+| 4    | Sep 22      | September  | Unit 1: Lessons 11–12              | Lesson 13 locked, Unit 2 Lessons 1-2  |
+| 5    | Sep 29      | September  | Unit 2: Lessons 1–3                | Unit 2 Lessons  3-6          |
+| 6    | Oct 6       | October    | Unit 2: Lessons 4–6                | Unit 2 Lessons  7, [8 locked], Unit 3 Lesson 1   |
+| 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    | Unit 3 Lessons 2,3 - Trip |
+| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                | Unit 3 4,5,6,7, MISSED FRI   |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    | Unit 4: 1,2: , Ordination.     |
+| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                | Unit 4: 3,4,5,6            |
+| 11   | Nov 10      | November   | Unit 4: Lessons 5–7                | Unit 4: 7,8,9,10 |
+| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               | Unit 4: 11,12 day. 1/2        |
 | 13   | Nov 24      | November   | Thanksgiving Break                 | No class                      |
 | 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  | Unit 4: 12 day 3, Unit 5: 1                   |
-| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                |  Unit 5: 2,3,4                             |
-| 16   | Dec 15      | December   | Unit 5: Lessons 5–7                |                               |
+| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                | Unit 5: 2,3,4,5,6                             |
+| 16   | Dec 15      | December   | Unit 5: Lessons 5–7                | Unit 5: 7,8,...                            |
 | 17   | Dec 22      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan 2) or Dev     |
 | 18   | Dec 29      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan 2) or Dev     |
 | 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  |                               |
