@@ -4,31 +4,39 @@ title: Week 19 — Plan
 {% include topnav.md %}
 
 # Week 19: This Week in AP CSP
+# Thursday
 
-Before class (10–20 min)
-- Barron’s: Create PT guidelines and exemplars
-- Optional: AP Daily — AP Daily: Create PT tips/exemplars
+## Unit 6 - Lesson 8: Loops Make
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/8)
+- [Slides](https://docs.google.com/presentation/d/1rm9otugkyZliSLbqX0bSgnIghaElguoIykh1JaJMUX0/template/preview)
 
-In class (60–90 min)
-- MakeCode CSP: Create PT — Ideation/Requirements
-  https://microsoft.github.io/makecode-csp
-- Focus: Create PT: ideation and requirements
-- Do: complete all activities and one extension; save/share the project link.
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): Create PT rubric language; abstraction/list requirements
-- Reading (20–30 min): Barron’s — Create PT guidelines and exemplars
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
+## Friday
+## Unit 6 - Lesson 9: Traversals Explore
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/9)
+- [Slides](https://docs.google.com/presentation/d/1Qi1HRGX43c_TVpb3hdJFX5wrN5zs_qKXpWaymUqDtYI/template/preview)
 
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
 
-Due
-- Start of next class: ______ (insert date/time).
 
-References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
-- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
-- Acronym key: {{ site.baseurl }}/glossary.html
+
+## ????
+## Unit 6 - Lesson 10: Traversals Investigate
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/10)
+- [Slides](https://docs.google.com/presentation/d/1zS7j6oCW0rzownz-Fg12M-UheRiRs7W8ENm1cZJv4VQ/template/preview)
+
+## Unit 6 - Lesson 11: Traversals Practive
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/11)
+- [Slides](https://docs.google.com/presentation/d/1H5ZUrHHZqkSu_FrHtNbWQjzRvylU8woXv595hEZptZY/template/preview)
+
+## Unit 6 - Lesson 12: Traversals Make
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/12)
+- [Slides](https://docs.google.com/presentation/d/10eNxfCkDNLoMAPnfmFDQR0XwO_mMkmM6j3ewfh2y3kM/template/preview)
+
+
+## Unit 6 - Lesson 13: Hackathon
+- [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/13)
+- [Slides](https://docs.google.com/presentation/d/1pvRpMallMjVBPQNOusvULwZ_iIXPYw1NOmz4EZFrmXM/template/preview)
+
+
+
+ 

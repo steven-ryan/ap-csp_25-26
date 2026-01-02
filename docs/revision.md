@@ -14,6 +14,7 @@ From ap classroom and barrons
 - practice test 
 - check all barrons chapters reviewed
 - code.org unit vocabs e.g.  https://studio.code.org/teacher_dashboard/sections/6109201/materials
+- AP Daily
 
 ## Run through marking guide and decide if you would get the points
 ## Write an abstract class implemeting the loop, algorithm etc
