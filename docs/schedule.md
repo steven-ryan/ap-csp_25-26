@@ -5,7 +5,7 @@ title: Weekly schedule (links in site)
 
 # Weekly schedule
 
-👉 Current week: Week 17 — Plan: [Week 17 plan](https://steven-ryan.github.io/ap-csp_25-26/weeks/week-17/this-week.html)
+👉 Current week: Week 19 — Plan: [Week 19 plan](https://steven-ryan.github.io/ap-csp_25-26/weeks/week-19/this-week.html)
 
 All weeks
 - See: [Weeks index]({{ site.baseurl }}/weeks/)

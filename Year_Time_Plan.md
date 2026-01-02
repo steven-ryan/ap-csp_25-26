@@ -67,18 +67,18 @@ Aim for three lessons a week
 | 5    | Sep 29      | September  | Unit 2: Lessons 1–3                | Unit 2 Lessons  3-6          |
 | 6    | Oct 6       | October    | Unit 2: Lessons 4–6                | Unit 2 Lessons  7, [8 locked], Unit 3 Lesson 1   |
 | 7    | Oct 13      | October    | Unit 2: Lessons 7–8, Unit 3: L1    | Unit 3 Lessons 2,3 - Trip |
-| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                | Unit 3 4,5,6,7, MISSED FRI   |
-| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    | Unit 4: 1,2: , Ordination.     |
-| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                | Unit 4: 3,4,5,6            |
+| 8    | Oct 20      | October    | Unit 3: Lessons 2–4                | Unit 3 4,5,6,7, MISSED FRI  |
+| 9    | Oct 27      | October    | Unit 3: Lessons 5–6, Unit 4: L1    | Unit 4: 1,2: , Ordination.  |
+| 10   | Nov 3       | November   | Unit 4: Lessons 2–4                | Unit 4: 3,4,5,6     |
 | 11   | Nov 10      | November   | Unit 4: Lessons 5–7                | Unit 4: 7,8,9,10 |
-| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               | Unit 4: 11,12 day. 1/2        |
-| 13   | Nov 24      | November   | Thanksgiving Break                 | No class                      |
-| 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  | Unit 4: 12 day 3, Unit 5: 1                   |
-| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                | Unit 5: 2,3,4,5,6                             |
+| 12   | Nov 17      | November   | Unit 4: Lessons 8–10               | Unit 4: 11,12 day. 1/2 |
+| 13   | Nov 24      | November   | Thanksgiving Break                 | No class        |
+| 14   | Dec 1       | December   | Unit 4: Lessons 11–13, Unit 5: L1  | Unit 4: 12 day 3, Unit 5: 1       |
+| 15   | Dec 8       | December   | Unit 5: Lessons 2–4                | Unit 5: 2,3,4,5,6          |
 | 16   | Dec 15      | December   | Unit 5: Lessons 5–7                | Unit 5: 7,8, Unit 6: 1,2,3 |
-| 17   | Dec 22      | December   | Christmas/New Year’s Break         | Unit 6: 4,5,6?     |
-| 18   | Dec 29      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan 2) or Dev     |
-| 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  |                               |
+| 17   | Dec 22      | December   | Christmas/New Year’s Break         | Unit 6: 4,5,6     |
+| 18   | Dec 29      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan1) Unit 6: 7   |
+| 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  | Unit 6: 8,9 |
 | 20   | Jan 12      | January    | Unit 6: Lessons 3–5                |                               |
 | 21   | Jan 19      | January    | Unit 6: Lessons 6–8                |                               |
 | 22   | Jan 26      | January    | Unit 6: Lessons 9–11               |                               |
