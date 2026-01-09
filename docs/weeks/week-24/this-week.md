@@ -5,30 +5,45 @@ title: Week 24 — Plan
 
 # Week 24: This Week in AP CSP
 
-Before class (10–20 min)
-- Barron’s: Create PT guidelines and exemplars
-- Optional: AP Daily — AP Daily: Create PT tips/exemplars
+# Thursday
 
-In class (60–90 min)
-- MakeCode CSP: Create PT — Build Sprint 2
-  https://microsoft.github.io/makecode-csp
-- Focus: Create PT: build sprint 2
-- Do: complete all activities and one extension; save/share the project link.
+## Unit 7 - Lesson 5: Libraries Explore
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/5)
+- [Slides]()
 
-After class (120–180 min)
-- Finish MakeCode tasks and one extension (document which one).
-- AP Classroom Topic Questions (15–20 min): Create PT rubric language; abstraction/list requirements
-- Reading (20–30 min): Barron’s — Create PT guidelines and exemplars
-- Reflection (5–10 min): 3–5 bullets — one benefit and one risk (IOC).
+## Unit 7 - Lesson 6: Libraries Investigate
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/6)
+- [Slides](https://docs.google.com/presentation/d/1DIOvVSdm-8w_Te_y1zCGYDnUHoxa0l12e8zQEc59XrU/template/preview)
 
-Deliverables
-- MakeCode project link(s) + 3–5 bullet reflection.
 
-Due
-- Start of next class: ______ (insert date/time).
+# Friday
 
-References
-- AP CSP Exam Reference Sheet (public on AP Central).
-- Blown to Bits (free): https://www.bitsbook.com
-- Pseudocode mapping: {{ site.baseurl }}/pseudocode.html
-- Acronym key: {{ site.baseurl }}/glossary.html
+## Unit 7 - Lesson 7: Libraries Practice
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/7)
+- [Slides](https://docs.google.com/presentation/d/1ExO5Rg0Fdnqlea7cTRMZoF8M5x_fOhhPO24w8gielAE/template/preview)
+
+...
+
+## Unit 7 - Lesson 8: Project - Make a Library Part 1
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/8)
+- [Slides](https://docs.google.com/presentation/d/1ck4tsv7Zp3gke6npUYfqmqIqucFIKjr2dmPFhAQ9Iis/template/preview)
+
+## Unit 7 - Lesson 9: Project - Make a Library Part 2
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/9)
+- [Slides](https://docs.google.com/presentation/d/1ck4tsv7Zp3gke6npUYfqmqIqucFIKjr2dmPFhAQ9Iis/template/preview)
+
+## Unit 7 - Lesson 10: Project - Make a Library Part 3
+- [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/10)
+- [Slides](https://docs.google.com/presentation/d/1ck4tsv7Zp3gke6npUYfqmqIqucFIKjr2dmPFhAQ9Iis/template/preview)
+
+
+
+## Home work:
++ Barrons? or more data quiz
++ ...
+
+- Introduce binary search
+
+## Home work:
++ Big Idea 3 - Algorithms and Programming - Unit 3 - part 2
++ 
