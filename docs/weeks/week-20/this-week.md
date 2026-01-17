@@ -25,4 +25,7 @@ title: Week 20 — Plan
 
 
 ## Home work:
-+ Finish Day 1 of the app planning and thorough design and present your idea before the next class
++ Do step 4 and 5 of Day 2 Hackathon slides and project activity sheet:
+    + Step 4. Prepare to build your app
+    + Step 5. Make test screents 
+
