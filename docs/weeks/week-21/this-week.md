@@ -7,8 +7,8 @@ title: Week 21 — Plan
 
 # Thursday
 ## Unit 6 - Lesson 13: Hackathon
-- Day 2: prepare to buid
-- Both Roles but I will provide user requirements/stories
+- Day 2: Show homework, prepare to buid, Step 6 onwards
+- Both Roles but I may add user requirements/stories
 - [Lesson](https://studio.code.org/courses/csp-2025/units/6/lessons/13)
 - [Slides](https://docs.google.com/presentation/d/1pvRpMallMjVBPQNOusvULwZ_iIXPYw1NOmz4EZFrmXM/template/preview)
 
@@ -23,4 +23,3 @@ title: Week 21 — Plan
 
 
  
-
