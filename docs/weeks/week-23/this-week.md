@@ -5,6 +5,7 @@ title: Week 23 — Plan
 
 # Week 23: This Week in AP CSP
 
+
 # Unit 7 - Parameters, Return, and Libraries
 # Thursday
 ## Unit 7 - Lesson 1: Parameters and Return Explore
