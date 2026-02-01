@@ -81,8 +81,8 @@ Aim for three lessons a week
 | 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  | Unit 6: 8, 9, 10 11 (partial) |
 | 20   | Jan 12      | January    | Unit 6: Lessons 3–5                | * Unit 6: 11 (rest), 12, 13 (day 1) |
 | 21   | Jan 19      | January    | Unit 6: Lessons 6–8                | * Unit 6: 13 (day 2,3)  started 4|
-| 22   | Jan 26      | January    | Unit 6: Lessons 9–11               | * Unit 6: 13 (finish day 4, 5 written responses), Unit 7: 1|
-| 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  | * Unit 7: 2, ......? |
+| 22   | Jan 26      | January    | Unit 6: Lessons 9–11               | * Unit 6: 13 (finish day 4, 5 written responses)|
+| 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  | * Unit 7: 1, 2, ......? |
 | 24   | Feb 9       | February   | Unit 7: Lessons 2–4                |                               |
 | 25   | Feb 16      | February   | Unit 7: Lessons 5–7                |                               |
 | 26   | Feb 23      | February   | Unit 7: Lessons 8–11               |                               |
