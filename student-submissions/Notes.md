@@ -171,6 +171,24 @@ Correlation
 Metadata
 > data about data, providing context, description, and management info for other data, making it easier to find, use, and organize.
 
+Filter
+> create a subset of elements from the original list
+
+Reduce
+> reduce the list down to a single element, for example: the smallest number in the list
+
+Map
+> add or change each item in a list.
+
+Argument
+> The values of the parameters when a procedure is called.
+
+Parameter
+> A parameter is an input variable of a procedure. Explicit parameters are defined in the procedure header. Implicit parameters are those that are assigned in anticipation of a call to the procedure. For example, an implicit parameter can be set through interaction with a graphical user interface.
+
+Return
+> returns an object to where it was called from.
+
 
 
 ## Revision
