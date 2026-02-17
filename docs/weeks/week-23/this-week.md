@@ -7,6 +7,7 @@ title: Week 23 — Plan
 
 
 # Unit 7 - Parameters, Return, and Libraries
+
 # Thursday
 ## Unit 7 - Lesson 1: Parameters and Return Explore
 - [Lesson](https://studio.code.org/courses/csp-2025/units/7/lessons/1)
@@ -17,7 +18,7 @@ title: Week 23 — Plan
 - [Slides](https://docs.google.com/presentation/d/1o5UQ9_pcPoJ8z_M-uKHvk4P_Kmx2v8tImWb8uZ7BpGQ/template/preview)
 
 
-# Friday ???
+# Friday
 
 ## Unit 7 - Lesson 3: Parameters and Return Practice
 
