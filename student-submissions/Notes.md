@@ -189,6 +189,18 @@ Parameter
 Return
 > returns an object to where it was called from.
 
+Procedural Abstraction
+> provides a name for a process and allows the rocedure to be used only knowing what it does, and not necessarily how it does it.
+
+Modularity
+> the subdivision of a computer program into seperate subprograms.
+
+Library
+> a function collection of functions that can be used in many different programs.
+
+API
+> (Application Program Interface) are specifications for how the functions in a library behave and can be used.
+
 
 
 ## Revision
