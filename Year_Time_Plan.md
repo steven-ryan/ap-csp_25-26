@@ -84,8 +84,8 @@ Aim for three lessons a week
 | 22   | Jan 26      | January    | Unit 6: Lessons 9–11               | * Unit 6: 13 (finish day 4, 5 written responses)|
 | 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  | * Unit 7: 1, 2, 3, 4 |
 | 24   | Feb 9       | February   | Unit 7: Lessons 2–4                | * Unit 7: 5, 6, 7, 8, 9 |
-| 25   | Feb 16      | February   | Unit 7: Lessons 5–7                | * Unit 7: 10 |
-| 26   | Feb 23      | February   | Unit 7: Lessons 8–11               |                               |
+| 25   | Feb 16      | February   | Unit 7: Lessons 5–7                | * Unit 7: 10, Unit 8 L1 day1/2 skipped |
+| 26   | Feb 23      | February   | Unit 7: Lessons 8–10               |                               |
 | 27   | Mar 2       | March      | Unit 8: Lessons 1–4                |                               |
 | 28   | Mar 9       | March      | Unit 8: Lessons 5–7, Unit 9: L1    |                               |
 | 29   | Mar 16      | March      | Unit 9: Lessons 2–4                |                               |
