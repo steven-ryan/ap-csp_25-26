@@ -201,6 +201,18 @@ Library
 API
 > (Application Program Interface) are specifications for how the functions in a library behave and can be used.
 
+Rogue Access Point
+> Any unauthorized wireless access point or router connected to a secure network without administrative approval.
+
+Malware
+> Any software code, program, or script intentionally designed to disrupt, damage, gain unauthorized access to, or steal information from computer systems and networks.
+
+Phishing
+> A social engineering cyberattack where attackers masquerade as trusted entities via emails, messages, or websites to trick users into revealing sensitive information.
+
+Keylogging
+> A keylogger (keystroke logger) is a hardware or software tool that secretly records every keystroke made on a computer or mobile device without the user's consent.
+
 
 
 ## Revision
