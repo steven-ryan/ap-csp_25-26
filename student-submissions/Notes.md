@@ -213,6 +213,21 @@ Phishing
 Keylogging
 > A keylogger (keystroke logger) is a hardware or software tool that secretly records every keystroke made on a computer or mobile device without the user's consent.
 
+Encryption
+> a process of encoding messages to keep them secret, so only "authorized" parties can read it.
+
+Decryption
+> a process that reverses encryption, taking a secret message and reproducing the origional plain text.
+
+Cipher
+> the generic term for a technique (or algorithm) that performs encryption.
+
+Caesar's Cipher
+> a technique for encryption that shifts the alphabet by some number of charcters.
+
+Cracking encryption
+> when you attempt to decode a secret message without knowing all the specifics of the cipher, you are trying to crack the encryption.
+
 
 
 ## Revision
