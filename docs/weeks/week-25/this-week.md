@@ -18,8 +18,6 @@ title: Week 25 — Plan
  
 
 
-
-
 # Friday
 
 Skipped Unit 8 Lesson 1 - class/group innovations
@@ -30,8 +28,15 @@ Skipped Unit 8 Lesson 1 - class/group innovations
 - [Slides](https://docs.google.com/presentation/d/13Cl7HZ_jNBFgk0dt7TSu9Eb_vrjPEM9Wh4sATkQLMrc/template/preview)
 
 
-
 ## Unit 8 - Lesson 3: The Value of Privacy
 - [Lesson](https://studio.code.org/courses/csp-2025/units/8/lessons/3)
 - [Slides](https://docs.google.com/presentation/d/1vXxAIjKa31CyZQOPlvacYXc_A3ByFPhF2sisqoEqH44/template/preview)
 
+## Unit 8 - Lesson 4: Project - Innovation Simulation Part 2
+- [Lesson](https://studio.code.org/courses/csp-2025/units/8/lessons/4)
+- [Slides](https://docs.google.com/presentation/d/1LxIhDHxM87w9CaXm0xESuRv3Y8dP8wde7uvqTJs4RqQ/template/preview)
+
+
+## Unit 8 - Lesson 5: Security Risks Part 1
+- [Lesson](https://studio.code.org/courses/csp-2025/units/8/lessons/5)
+- [Slides](https://docs.google.com/presentation/d/1Vgr1SmAarwd-cJPsdTA4c9s3-Eid0x9N0KDzxnB5BnQ/template/preview)

@@ -39,3 +39,32 @@ Unit 2 The Internet
 
 ## Home work:
 - 
+
+
+
+
+
+
+
+## Home work:
++ Barrons? or more data quiz
++ ...
+
+- Introduce binary search
+
+## Home work:
++ Big Idea 3 - Algorithms and Programming - Unit 3 - part 2
++ 
+
+
+Use the code.org resourses
+Bingo
+glossary
+AP Course modules to revise
+notes
+practice exams
+Barrons quizzes
+
+
+
+...

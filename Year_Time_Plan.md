@@ -79,13 +79,13 @@ Aim for three lessons a week
 | 17   | Dec 22      | December   | Christmas/New Year’s Break         | Unit 6: 4,5,6     |
 | 18   | Dec 29      | December   | Christmas/New Year’s Break         | No class (Dec 22–Jan1) Unit 6: 7   |
 | 19   | Jan 5, 2026 | January    | Unit 5: Lessons 8–9, Unit 6: L1–2  | Unit 6: 8, 9, 10 11 (partial) |
-| 20   | Jan 12      | January    | Unit 6: Lessons 3–5                | * Unit 6: 11 (rest), 12, 13 (day 1) |
-| 21   | Jan 19      | January    | Unit 6: Lessons 6–8                | * Unit 6: 13 (day 2,3)  started 4|
-| 22   | Jan 26      | January    | Unit 6: Lessons 9–11               | * Unit 6: 13 (finish day 4, 5 written responses)|
-| 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  | * Unit 7: 1, 2, 3, 4 |
-| 24   | Feb 9       | February   | Unit 7: Lessons 2–4                | * Unit 7: 5, 6, 7, 8, 9 |
-| 25   | Feb 16      | February   | Unit 7: Lessons 5–7                | * Unit 7: 10, Unit 8 L1 day1/2 skipped |
-| 26   | Feb 23      | February   | Unit 7: Lessons 8–10               |                               |
+| 20   | Jan 12      | January    | Unit 6: Lessons 3–5                | Unit 6: 11 (rest), 12, 13 (day 1) |
+| 21   | Jan 19      | January    | Unit 6: Lessons 6–8                | Unit 6: 13 (day 2,3)  started 4|
+| 22   | Jan 26      | January    | Unit 6: Lessons 9–11               | Unit 6: 13 (finish day 4, 5 written responses)|
+| 23   | Feb 2       | February   | Unit 6: Lessons 12–14, Unit 7: L1  | Unit 7: 1, 2, 3, 4 |
+| 24   | Feb 9       | February   | Unit 7: Lessons 2–4                | Unit 7: 5, 6, 7, 8, 9 |
+| 25   | Feb 16      | February   | Unit 7: Lessons 5–7                | Unit 7: 10, Unit 8: L1 day1/2 skipped, L2,3,4,5  |
+| 26   | Feb 23      | February   | Unit 7: Lessons 8–10               | Unit 8 L 6,7,8 |
 | 27   | Mar 2       | March      | Unit 8: Lessons 1–4                |                               |
 | 28   | Mar 9       | March      | Unit 8: Lessons 5–7, Unit 9: L1    |                               |
 | 29   | Mar 16      | March      | Unit 9: Lessons 2–4                |                               |
@@ -113,28 +113,28 @@ CONFIRM it matches the PDF for 2026
 | **Big Idea 1: Creative Development** | Understanding the Create Performance Task | | [ ] |
 | | Brainstorming & project idea generation | | [ ] |
 | | Program design / pseudocode planning | | [ ] |
-| | Collaboration & team communication | | [ ] |
+| | Collaboration & team communication | | [x] |
 | | Iterative development & debugging | | [ ] |
 | | Documentation / written responses | | [ ] |
-| **Big Idea 2: Data** | Binary representation of numbers | | [ ] |
+| **Big Idea 2: Data** | Binary representation of numbers | | [x] |
 | | Text encoding (ASCII / Unicode) | | [x] |
 | | Images (pixels, color depth) | | [x] |
 | | Sound (sampling, digital audio) | | [x] |
 | | Data compression (lossy, lossless) | | [x] |
 | | Data abstraction & visualization | | [x] |
-| **Big Idea 3: Algorithms & Programming** | Sequencing (order of instructions) | | [ ] |
-| | Selection / conditionals (if-else) | | [ ] |
-| | Iteration / loops | | [ ] |
-| | Functions / procedures | | [ ] |
-| | Abstraction (breaking complex problems into simpler parts) | | [ ] |
-| | Algorithm efficiency & analysis | | [ ] |
-| | Testing & debugging strategies | | [ ] |
+| **Big Idea 3: Algorithms & Programming** | Sequencing (order of instructions) | | [x] |
+| | Selection / conditionals (if-else) | | [x] |
+| | Iteration / loops | | [x] |
+| | Functions / procedures | | [x] |
+| | Abstraction (breaking complex problems into simpler parts) | | [x] |
+| | Algorithm efficiency & analysis | | [x] |
+| | Testing & debugging strategies | | [x] |
 | **Big Idea 4: Computer Systems & Networks** | Internet structure (IP, TCP, DNS) | | [x] |
 | | Fault tolerance / redundancy | | [x] |
 | | Cybersecurity basics | | [x] |
 | | Data transfer / packet routing | | [x] |
 | | Networking protocols & reliability | | [x] |
-| **Big Idea 5: Impact of Computing** | Ethics in computing | | [ ] |
+| **Big Idea 5: Impact of Computing** | Ethics in computing | | [x] |
 | | Privacy & intellectual property | | [x] |
 | | Global impact of computing innovations | | [x] |
 | | Societal implications (AI, automation) | | [x] |
