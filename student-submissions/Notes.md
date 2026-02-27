@@ -228,6 +228,30 @@ Caesar's Cipher
 Cracking encryption
 > when you attempt to decode a secret message without knowing all the specifics of the cipher, you are trying to crack the encryption.
 
+Efficiency
+> a measure of how many steps are needed to complete an algorithm
+
+Linear Search
+> a search algorithm which checks each element of a list, in order, until the desired value is found or all elements in the list have been checked.
+
+Binary Search
+> a search algorithm that starts at the middle of a sorted set of numbers and removes half of the data; this process repeats until the desired value is found or all elements have been eleminated.
+
+Reasonable Time
+> Algorithms with a polynomial efficiency or lower (constant, linear, square, cube, etc.) are said to run in a reasonable amount of time.
+
+Unreasonable Time
+> Algorithms with expnential or factorial efficiencies are examples of algorithms that run in an unreasonable amount of time.
+
+Heuristic
+> provides a "good enough" solution to a problem when an actual solution is impractical or impossible.
+
+Undecidable Problem
+> a problem for which no algorithm can be constructed that is always capable of providing a correct yes-or-no answer.
+
+Speedup
+> Sequential time divided by paralled time.
+
 
 
 ## Revision
